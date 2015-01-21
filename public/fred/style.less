@@ -1,0 +1,252 @@
+.code4sa {
+
+	@import "../bootstrap/less/bootstrap.less";
+	@import "variables.less";
+	@import "mixins.less";
+
+	margin: 0;
+	height: 100%;
+	// margin-top: -20px;
+	font-family: @baseFontFamily;
+	font-size: @baseFontSize;
+	line-height: @baseLineHeight;
+	color: @textColor;
+	background-color: @bodyBackground;
+
+	// @import "../flatly-less/less/bootswatch.less";
+	// @import "../bootstrap-less/less/utilities.less"; // Has to be last to override when necessary
+
+	#branding {
+		text-align: center;
+		padding-top: 10px;
+		#logo {
+
+			width: 65px;
+			height: 73px;
+			margin: 0px auto;
+			// margin-top: 5px;
+			display: block;
+			border-bottom: 1px #ccc solid;
+			background-color: #FFF;
+			padding: 5px;
+			box-shadow: 0px 0px 1px rgba(0,0,0,0.2);
+		}
+		
+		.chapter-title {
+			font-size: 60px;
+			line-height: 60px;
+			margin-top: 60px;
+		}
+		.menu {
+			position: absolute;
+			bottom: 0px;
+			padding-bottom: 20px;
+			background-color: rgba(250, 250, 250, 0.4);
+			width: 100%;
+			left: 0px;
+			border-top: 1px rgba(70, 70, 70, 0.9) solid;
+		
+			a {
+				// color: @c4sapink;
+				// color: #fff;
+				// text-decoration: underline;
+			}
+			h1 {
+				width: auto;
+				color: #FFF;
+				text-shadow: 1px 1px 2px rgba(0,0,0,0.6);
+			}
+
+			p {
+				color: #FFF;
+				font-size: 14pt;
+				text-shadow: 1px 1px 2px rgba(0,0,0,0.6);
+			}
+		}
+
+
+
+		z-index: 100;
+
+		
+	}
+
+	.right-half {
+		width: 50%;
+		margin-left: 50%;
+	}
+
+	.left-half {
+		width: 50%;
+		margin-left: 0%;
+	}
+
+	.fullscreen {
+		width: 100vw;
+		height: 100vh;
+
+		.arrows {
+			top: 70%;
+		}
+	}
+
+	#branding_container {
+
+		min-height: 80vh;
+		background-image: url(/assets/images/primrose8.jpg);
+		background-repeat: no-repeat;
+		background-color: #444;
+		background-position: 50% 0;
+		background-attachment: fixed;
+		background-size: cover;
+
+		.top-menu {
+			width: 100%;
+			height: 40px;
+			padding: 5px 20px;
+			background-color: rgba(250, 250, 250, 0.4);
+
+			h1 {
+				font-size: 12pt;
+				font-weight: bold;
+				margin: 0px 20px;
+				float: left;
+				line-height: 25px;
+			}
+
+			p {
+				float: left;
+				margin: 0px 5px;
+				font-size: 10pt;
+				line-height: 20px;
+			}
+		}
+	}
+
+
+
+
+
+	footer {
+		clear: both;
+		background-color: #444;
+		color: #eee;
+		a, a:hover {
+			color: #ccc;
+			text-decoration: underline;
+		}
+		text-align: center;
+		// position:absolute;
+		bottom:0px;
+		left: 0px;
+		min-height:100px;
+		
+		width:100%;
+		padding: 50px 0px;
+		font-size: 8pt;
+		// background-color: #444;
+		// color:white;
+		#partner_logo {
+			max-height: 70px;
+			max-width: 100px;
+			// margin: 0px auto;
+			// display: block;
+		}
+	}
+
+	video {
+		// position: absolute;
+		// top: 0px;
+		// left: 0px;
+		z-index: 1;
+	}
+
+	#graphic {
+		position: absolute;
+		z-index: 100;
+		margin-top: 100px;
+		margin-left: 700px;
+	}
+
+	.body {
+		padding: 40px 0px;
+		
+		.col-md-12 {
+			margin-bottom: 50px;
+		}
+	}
+	
+	.img_container {
+		position: relative;
+		clear: both;
+		// min-height: 800px;
+		background-repeat: no-repeat;
+		background-color: #444;
+		background-position: 50% 0;
+		background-attachment: fixed;
+
+		// padding-top: 700px;
+		padding-top: 70vh;
+
+		p, h2, h3, h4, h5 {
+			color: #FFF;
+			// font-size: 12pt;
+			text-shadow: 1px 1px 2px rgba(0,0,0,0.6);
+		}
+
+		p {
+			// position: absolute;
+			padding-bottom: 20px;
+			margin: 0px auto;
+			width: 60%;
+			font-size: 40pt;
+			line-height: 46pt;
+		}
+
+		background-size: cover;
+		blockquote {
+			border-left: none;
+		}
+
+		.chart {
+			background-color: rgba(255,255,255,0.4);
+			padding: 40px 0px;
+		}
+		
+	}
+
+	// #img_container_1 {
+	// 	background-image: url(/assets/images/primrose1.png);
+	// }
+
+	// #img_container_2 {
+	// 	background-image: url(/assets/images/primrose16.png);
+	// }
+
+	// #img_container_3 {
+	// 	background-image: url(/assets/images/primrose5.png);
+	// }
+
+	.arrows {
+		margin-right: 20px;
+		position: absolute;
+		top: 70vh;
+		z-index: 200;
+		right: 50px;
+
+		.arrow {
+			font-size: 30px;
+			background-color: #FFF;
+			width: 40px; 
+			height: 40px;
+			padding-top: 6px;
+			box-shadow: 1px 1px 2px rgba(0,0,0,0.6);
+			a {
+				color: @grayDarker !important;
+			}
+			float: left;
+			margin-right: 10px;
+		}
+	}
+
+}

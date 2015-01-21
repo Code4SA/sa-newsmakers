@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>SA Newsmakers</title>
+	<link rel="stylesheet" href="/public/css/style-app.css">
+	<link rel="stylesheet" href="/public/css/topjournos.css">
+	<link rel="stylesheet" href="/public/font-awesome/css/font-awesome.min.css">
+</head>
+<body class="code4sa">
+	<style>
+		text {
+			font: 10px sans-serif;
+			fill: #444;
+			pointer-events: none;
+		}
+
+		circle {
+			cursor: pointer;
+		}
+
+		div.tooltip {   
+			position: absolute;
+			text-align: center;
+			width: auto;
+			height: 37px;
+			padding: 10px;
+			font: 12px sans-serif;
+			background: #DDD;
+			border: 1px #AAA solid;
+			border-radius: 5px;
+			pointer-events: none;
+		}
+
+		#publications {
+			font-size: 10pt;
+		}
+	</style>
+	<div id="navbar">
+		
+		<a href="http://code4sa.org"><img id="logo" src="/public/images/logo-horizontal.png" alt="Code for South Africa" /></a>
+		<div id="sharing">
+			<div id="twitter">
+				<a href="http://twitter.com/code4sa"><i class="fa fa-twitter"></i></a>
+			</div>
+			<div id="facebook">
+				<a href="http://facebook.com/code4sa"><i class="fa fa-facebook"></i></a>
+			</div>
+		</div>
+	</div>
+	<div id="branding" >
+
+		<div class="container">
+			<div id="sharing">
+				<div id="twitter">
+					<a href="https://twitter.com/share" class="twitter-share-button" data-via="code4sa">Tweet</a>
+				</div>
+				<div id="facebook">
+					<div class="fb-like" data-width="100px" data-layout="button_count" data-action="like" data-show-faces="true" data-share="false"></div>
+			</div>
+			
+			</div>
+			<h1>SA Newsmakers</h1>
+			<p>We examine who in South Africa gets into the news the most, by tracking xx publications and the people quoted in them.</p>
+			<p>This project is part of <a href="http://mediamonitoringafrica.org">Media Monitoring Africa's</a> AgendaSetters project, in partnership with <a href="http://schoolofdata.org">School of Data</a>.</p>
+		</div>
+	</div>
+	
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+				<div id="selects" class="form form-horizontal"></div>
+				<!-- <select name="gender" id="select_gender">
+					<option value="all">All Genders</option>
+					<option value="male">Male</option>
+					<option value="female">Female</option>
+					<option value="trans">Other</option>
+				</select> -->
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-sm-9">
+				<div id="content"></div>
+			</div>
+			<div class="col-sm-3">
+				<div id="publications">
+					
+				</div>
+			</div>
+		</div>
+	</div>
+	<footer>
+		<!-- In proud partnership with <img id="partner_logo" src="/public/images/citypress.png" alt="Partner" />	 -->
+	</footer>
+	<div id="fb-root"></div>
+
+	<script src="https://platform.twitter.com/widgets.js"></script>
+	<script src="/public/jquery/dist/jquery.min.js"></script>
+	<script src="/public/handlebars/handlebars.min.js"></script>
+	<script src="/public/moment/moment.js"></script>
+	<script src="/public/d3/d3.min.js"></script>
+	<script src="/public/javascript/newsmakers.js"></script>
+	<script>
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		ga('create', 'UA-48399585-14', 'auto');
+		ga('send', 'pageview');
+	</script>
+</body>
+</html>
