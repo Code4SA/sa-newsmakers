@@ -1,0 +1,23 @@
+.code4sa text {
+  font: 10px sans-serif;
+  fill: #444;
+  pointer-events: none;
+}
+.code4sa circle {
+  cursor: pointer;
+}
+.code4sa div.tooltip {
+  position: absolute;
+  text-align: center;
+  width: auto;
+  height: 37px;
+  padding: 10px;
+  font: 12px sans-serif;
+  background: #DDD;
+  border: 1px #AAA solid;
+  border-radius: 5px;
+  pointer-events: none;
+}
+.code4sa #publications {
+  font-size: 10pt;
+}

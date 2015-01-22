@@ -13,8 +13,8 @@ $(function() {
 		return new Handlebars.SafeString(result);
 	});
 
-	var width = 900,
-		height = 750,
+	var width = 800,
+		height = 650,
 		format = d3.format(",d"),
 		color = d3.scale.category20c(),
 		date_format = d3.time.format("%Y-%m-%d");
@@ -22,11 +22,11 @@ $(function() {
 	var bubble = d3.layout.pack()
 		.sort(null)
 		.size([width, height])
-		.padding(1.5)
+		.padding(3)
 		.value(function(d) { return d.size })
 
 	var svg = d3.select("#content").append("svg")
-		.attr("width", width)
+		.attr("width", "100%")
 		.attr("height", height)
 		.attr("class", "bubble");
 
@@ -91,7 +91,7 @@ $(function() {
 				var publications = d3.select("#publications")
 					.html("");
 				publications.append("h3").text(function(d) { return name });
-				publications.append("p").append("strong").text(function(d) { return race + " " + gender + " - " + affiliation });
+				publications.append("p").append("strong").text(function(d) { return race + " " + gender + ( (affiliation) ? " - " + affiliation : "" ) });
 				// publications.append("p").text(function(d) { return affiliation });
 				var article = publications.selectAll("div")
 					.data(docs)
