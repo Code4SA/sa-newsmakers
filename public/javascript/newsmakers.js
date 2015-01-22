@@ -30,7 +30,7 @@ $(function() {
 		.attr("height", height)
 		.attr("class", "bubble");
 
-	d3.csv("/dexter.csv", function(err, data) {
+	d3.csv("dexter.csv", function(err, data) {
 		var n = d3.nest()
 			.key(function(d) { return d.source_source_name })
 			.entries(data);
