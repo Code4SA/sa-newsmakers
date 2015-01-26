@@ -30,6 +30,22 @@ $(function() {
 		.attr("height", height)
 		.attr("class", "bubble");
 
+	var find_min_date = function(docs) {
+		return new Date(
+			docs.reduce(function(previousValue, currentValue) {
+				return ((new Date(previousValue.doc_published_date) < new Date(currentValue.doc_published_date)) ? previousValue : currentValue);
+			}).doc_published_date
+		);
+	}
+
+	var find_max_date = function(docs) {
+		return new Date(
+			docs.reduce(function(previousValue, currentValue) {
+				return ((new Date(previousValue.doc_published_date) > new Date(currentValue.doc_published_date)) ? previousValue : currentValue);
+			}).doc_published_date
+		);
+	}
+
 	d3.csv("dexter.csv", function(err, data) {
 		var n = d3.nest()
 			.key(function(d) { return d.source_source_name })
@@ -42,13 +58,25 @@ $(function() {
 		var races = [];
 		var affiliations = [];
 		var affiliation_groups = [];
+		var min_date = new Date();
+		var max_date = 0;
 
 		m.forEach(function(d) {
 			genders.push(d.docs[0].source_gender);
 			races.push(d.docs[0].source_race);
 			affiliations.push(d.docs[0].source_affiliation);
 			affiliation_groups.push(d.docs[0].source_affiliation_group);
+			var this_min_date = find_min_date(d.docs);
+			var this_max_date = find_max_date(d.docs);
+			if (this_min_date < min_date) {
+				min_date = this_min_date;
+			}
+			if (this_max_date > max_date) {
+				max_date = this_max_date;
+			}
 		});
+		d3.select("#dateRange")
+			.text("Date range for this dataset: " + date_format(min_date) + " to " + date_format(max_date));
 		genders = d3.set(genders).values();
 		genders.unshift("All")
 		races = d3.set(races).values();
@@ -64,7 +92,7 @@ $(function() {
 			{ name: "Group", key: "affiliation_group", values: affiliation_groups, value: "All" },
 		];
 		var filter_vals = { gender: "All", race: "All", group: "All" };
-		console.log(m);
+		// console.log(m);
 
 		var tooltip = d3.select("body").append("div")
 			.attr("class", "tooltip")
