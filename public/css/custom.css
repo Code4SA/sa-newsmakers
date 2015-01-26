@@ -21,3 +21,14 @@
 .code4sa #publications {
   font-size: 10pt;
 }
+.code4sa .node {
+  -webkit-transition: opacity 0.5s ease-out;
+  transition: opacity 0.5s ease-out;
+}
+.code4sa .faded {
+  opacity: 0;
+  pointer-events: none;
+}
+.code4sa .faded circle {
+  cursor: default !important;
+}

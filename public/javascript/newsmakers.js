@@ -111,7 +111,7 @@ $(function() {
 			.on("mouseover", function(d) {
 				tooltip
 					.style("opacity", .9)
-					;
+				;
 			})
 			.on("mousemove", function(d) {
 				tooltip.html(d.name)
@@ -167,21 +167,24 @@ $(function() {
 
 		function applyFilters() {
 			svg.selectAll(".node")
-				.classed("hidden", function(d) { 
-					var display = true;
-					for (key in filter_vals) {
-						filter = filter_vals[key];
-						if (filter == "All") {
-							display = display || false;
-						} else {
-							if (d[key] !== filter) {
-								display = display && false;
-							}
-						}
-					}
-					// return false;
-					return !display;
+				.classed("faded", function(d) { 
+					return is_filtered(d);
 				});
+		}
+
+		function is_filtered(d) {
+			var display = true;
+			for (key in filter_vals) {
+				filter = filter_vals[key];
+				if (filter == "All") {
+					display = display || false;
+				} else {
+					if (d[key] !== filter) {
+						display = display && false;
+					}
+				}
+			}
+			return !display;
 		}
 
 		function Source(d) {
