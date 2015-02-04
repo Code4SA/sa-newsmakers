@@ -13,7 +13,7 @@ $(function() {
 		return new Handlebars.SafeString(result);
 	});
 
-	var width = 800,
+	var width = 600,
 		height = 650,
 		format = d3.format(",d"),
 		color = d3.scale.category20c(),
