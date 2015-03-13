@@ -1,0 +1,4966 @@
+{
+  "cells": [
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": null, 
+      "race": null, 
+      "record_count": 8, 
+      "source_name": "AFP"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": null, 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Amanda Jane Wilde"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": null, 
+      "race": null, 
+      "record_count": 3, 
+      "source_name": "Amnesty International"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": null, 
+      "race": null, 
+      "record_count": 4, 
+      "source_name": "BBC"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": null, 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Brian van Wilgen"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": null, 
+      "race": null, 
+      "record_count": 2, 
+      "source_name": "Chief Superintendent Wayne Minnaar"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": null, 
+      "race": null, 
+      "record_count": 4, 
+      "source_name": "Claire Bisseker"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": null, 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Craig Dodds"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": null, 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Dale T McKinley"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": null, 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Dean Macpherson"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": null, 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Duncan McLeod"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": null, 
+      "race": null, 
+      "record_count": 7, 
+      "source_name": "ER24"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": null, 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Eric Davis"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": null, 
+      "race": null, 
+      "record_count": 7, 
+      "source_name": "Gadeeja Abbas"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": null, 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Gao"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": null, 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Helmoed R mer Heitman"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": null, 
+      "race": null, 
+      "record_count": 3, 
+      "source_name": "Henrique Capriles"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": null, 
+      "race": null, 
+      "record_count": 5, 
+      "source_name": "Leeto M Khoza"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": null, 
+      "race": null, 
+      "record_count": 3, 
+      "source_name": "National Assembly:"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": null, 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "New York Times"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": null, 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Phephelaphi Dube"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": null, 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Piet du Plessis"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": null, 
+      "race": null, 
+      "record_count": 2, 
+      "source_name": "President Nicol\u00e1s Maduro"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": null, 
+      "race": null, 
+      "record_count": 3, 
+      "source_name": "President Vladimir Putin"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": null, 
+      "race": null, 
+      "record_count": 2, 
+      "source_name": "Refilwe Pitjeng"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": null, 
+      "race": null, 
+      "record_count": 2, 
+      "source_name": "Sakhumzi Mfecane"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": null, 
+      "race": null, 
+      "record_count": 2, 
+      "source_name": "Simon Jenkins"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": null, 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Stephen Timm"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": null, 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Steven Poole"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": null, 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "SURAYA DADOO"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": null, 
+      "race": null, 
+      "record_count": 11, 
+      "source_name": "Tamsin Wort"
+    }, 
+    {
+      "affiliation": "Academics / Experts / Researchers", 
+      "affiliation_group": "Academics / Experts / Researchers", 
+      "gender": null, 
+      "race": null, 
+      "record_count": 5, 
+      "source_name": "de Villiers"
+    }, 
+    {
+      "affiliation": "Other university / research centre / institute not listed", 
+      "affiliation_group": "Academics / Experts / Researchers", 
+      "gender": null, 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Judith February"
+    }, 
+    {
+      "affiliation": "Academics / Experts / Researchers", 
+      "affiliation_group": "Academics / Experts / Researchers", 
+      "gender": null, 
+      "race": null, 
+      "record_count": 2, 
+      "source_name": "Karen Heese"
+    }, 
+    {
+      "affiliation": "Academics / Experts / Researchers", 
+      "affiliation_group": "Academics / Experts / Researchers", 
+      "gender": null, 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Terry Bell"
+    }, 
+    {
+      "affiliation": "African National Congress - ANC", 
+      "affiliation_group": "Political Parties", 
+      "gender": null, 
+      "race": null, 
+      "record_count": 8, 
+      "source_name": "ANC"
+    }, 
+    {
+      "affiliation": "Democratic Alliance/Demokratiese Alliansie - DA", 
+      "affiliation_group": "Political Parties", 
+      "gender": null, 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Democratic alliance"
+    }, 
+    {
+      "affiliation": "Economic Freedom Fighters - EFF", 
+      "affiliation_group": "Political Parties", 
+      "gender": null, 
+      "race": null, 
+      "record_count": 2, 
+      "source_name": "EFF"
+    }, 
+    {
+      "affiliation": "South African Communist Party - SACP", 
+      "affiliation_group": "Political Parties", 
+      "gender": null, 
+      "race": null, 
+      "record_count": 5, 
+      "source_name": "SACP"
+    }, 
+    {
+      "affiliation": "Media - editor, jourmalist, dj, presenter, critic, public relations", 
+      "affiliation_group": "Professionals", 
+      "gender": null, 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "eNCA"
+    }, 
+    {
+      "affiliation": "Community Leader", 
+      "affiliation_group": "Professionals", 
+      "gender": null, 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Khaled Meshaal"
+    }, 
+    {
+      "affiliation": "Community Association", 
+      "affiliation_group": "Professionals", 
+      "gender": null, 
+      "race": null, 
+      "record_count": 3, 
+      "source_name": "Paseka Ndevu"
+    }, 
+    {
+      "affiliation": "Media - editor, jourmalist, dj, presenter, critic, public relations", 
+      "affiliation_group": "Professionals", 
+      "gender": null, 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "SABC"
+    }, 
+    {
+      "affiliation": "Media - editor, jourmalist, dj, presenter, critic, public relations", 
+      "affiliation_group": "Professionals", 
+      "gender": null, 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Xinhua"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Female", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Alice Mathew"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Female", 
+      "race": null, 
+      "record_count": 2, 
+      "source_name": "Ames Dhai"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Female", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Antonia Malchick"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Female", 
+      "race": null, 
+      "record_count": 4, 
+      "source_name": "Dale Steyn"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Female", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Francis Antonie"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Female", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Ilse de Lange"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Female", 
+      "race": null, 
+      "record_count": 11, 
+      "source_name": "JANET HEARD"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Female", 
+      "race": null, 
+      "record_count": 8, 
+      "source_name": "Julie Bishop"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Female", 
+      "race": null, 
+      "record_count": 10, 
+      "source_name": "Lynne Brown"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Female", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Mandy Wiener"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Female", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Maya Fisher-French"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Female", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Michelle Nichols"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Female", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Nadine Gordimer"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Female", 
+      "race": null, 
+      "record_count": 2, 
+      "source_name": "Nicolette Dirk"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Female", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Singh"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Female", 
+      "race": null, 
+      "record_count": 2, 
+      "source_name": "Sowetan"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Female", 
+      "race": null, 
+      "record_count": 2, 
+      "source_name": "Tracy"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Female", 
+      "race": null, 
+      "record_count": 7, 
+      "source_name": "Winnie Theletsane"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Female", 
+      "race": "Black", 
+      "record_count": 3, 
+      "source_name": "Phiyega"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Female", 
+      "race": "Coloured", 
+      "record_count": 1, 
+      "source_name": "Anene Booysen"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Female", 
+      "race": "Coloured", 
+      "record_count": 1, 
+      "source_name": "Chriselda Lewis"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Female", 
+      "race": "White", 
+      "record_count": 1, 
+      "source_name": "Adele Kirsten"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Female", 
+      "race": "White", 
+      "record_count": 2, 
+      "source_name": "Carmel Rickard"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Female", 
+      "race": "White", 
+      "record_count": 1, 
+      "source_name": "Reeva Steenkamp"
+    }, 
+    {
+      "affiliation": "University of Johannesburg", 
+      "affiliation_group": "Academics / Experts / Researchers", 
+      "gender": "Female", 
+      "race": null, 
+      "record_count": 2, 
+      "source_name": "Elizabeth Henning"
+    }, 
+    {
+      "affiliation": "Other university / research centre / institute not listed", 
+      "affiliation_group": "Academics / Experts / Researchers", 
+      "gender": "Female", 
+      "race": "White", 
+      "record_count": 1, 
+      "source_name": "Kelly Du Plessis"
+    }, 
+    {
+      "affiliation": "Academics / Experts / Researchers", 
+      "affiliation_group": "Academics / Experts / Researchers", 
+      "gender": "Female", 
+      "race": "White", 
+      "record_count": 1, 
+      "source_name": "Paula Griffiths"
+    }, 
+    {
+      "affiliation": "Academics / Experts / Researchers", 
+      "affiliation_group": "Academics / Experts / Researchers", 
+      "gender": "Female", 
+      "race": "White", 
+      "record_count": 1, 
+      "source_name": "Susan Booysen"
+    }, 
+    {
+      "affiliation": "Spouse - husband or wife", 
+      "affiliation_group": "Citizens", 
+      "gender": "Female", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "lrina Shayk"
+    }, 
+    {
+      "affiliation": "Survivor", 
+      "affiliation_group": "Citizens", 
+      "gender": "Female", 
+      "race": "Asian", 
+      "record_count": 1, 
+      "source_name": "Malala"
+    }, 
+    {
+      "affiliation": "Victim", 
+      "affiliation_group": "Citizens", 
+      "gender": "Female", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "Grace"
+    }, 
+    {
+      "affiliation": "Father", 
+      "affiliation_group": "Citizens", 
+      "gender": "Female", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "kanye West"
+    }, 
+    {
+      "affiliation": "Family Member", 
+      "affiliation_group": "Citizens", 
+      "gender": "Female", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "Kedibone Selesho"
+    }, 
+    {
+      "affiliation": "Other citizen not listed", 
+      "affiliation_group": "Citizens", 
+      "gender": "Female", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "Thumeka Magwangqana"
+    }, 
+    {
+      "affiliation": "Family Member", 
+      "affiliation_group": "Citizens", 
+      "gender": "Female", 
+      "race": "Coloured", 
+      "record_count": 5, 
+      "source_name": "Khanita Thomas"
+    }, 
+    {
+      "affiliation": "Mother", 
+      "affiliation_group": "Citizens", 
+      "gender": "Female", 
+      "race": "White", 
+      "record_count": 1, 
+      "source_name": "June"
+    }, 
+    {
+      "affiliation": "Independent Electoral Commission - IEC", 
+      "affiliation_group": "Commisions  & Independent Bodies", 
+      "gender": "Female", 
+      "race": "Black", 
+      "record_count": 2, 
+      "source_name": "Pansy Tlakula"
+    }, 
+    {
+      "affiliation": "Public Protector", 
+      "affiliation_group": "Commisions  & Independent Bodies", 
+      "gender": "Female", 
+      "race": "Black", 
+      "record_count": 14, 
+      "source_name": "Thuli Madonsela"
+    }, 
+    {
+      "affiliation": "Other corporation not listed", 
+      "affiliation_group": "Corporations", 
+      "gender": "Female", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Zandile Tshabalala"
+    }, 
+    {
+      "affiliation": "Anglo American", 
+      "affiliation_group": "Corporations", 
+      "gender": "Female", 
+      "race": "Black", 
+      "record_count": 4, 
+      "source_name": "Mpumi Sithole"
+    }, 
+    {
+      "affiliation": "Other international group / donor not listed", 
+      "affiliation_group": "International Groups / Donors", 
+      "gender": "Female", 
+      "race": null, 
+      "record_count": 3, 
+      "source_name": "Irina Bokova"
+    }, 
+    {
+      "affiliation": "Southern African Development Community (SADC)", 
+      "affiliation_group": "International Groups / Donors", 
+      "gender": "Female", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "Maite Nkoana-Mashabane"
+    }, 
+    {
+      "affiliation": "United Nations - UN", 
+      "affiliation_group": "International Groups / Donors", 
+      "gender": "Female", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "Phumzile Mlambo-Ngcuka"
+    }, 
+    {
+      "affiliation": "European Union (EU)", 
+      "affiliation_group": "International Groups / Donors", 
+      "gender": "Female", 
+      "race": "White", 
+      "record_count": 2, 
+      "source_name": "Federica Mogherini"
+    }, 
+    {
+      "affiliation": "International Groups / Donors", 
+      "affiliation_group": "International Groups / Donors", 
+      "gender": "Female", 
+      "race": "White", 
+      "record_count": 1, 
+      "source_name": "Justine Greening"
+    }, 
+    {
+      "affiliation": "Foreign Government", 
+      "affiliation_group": "International Groups / Donors", 
+      "gender": "Female", 
+      "race": "White", 
+      "record_count": 3, 
+      "source_name": "Marie Harf"
+    }, 
+    {
+      "affiliation": "South African Police Service - SAPS", 
+      "affiliation_group": "Justice System", 
+      "gender": "Female", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Edna Mamonyane"
+    }, 
+    {
+      "affiliation": "Other justice system organisation not listed", 
+      "affiliation_group": "Justice System", 
+      "gender": "Female", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Kallie Kriel"
+    }, 
+    {
+      "affiliation": "South African Police Service - SAPS", 
+      "affiliation_group": "Justice System", 
+      "gender": "Female", 
+      "race": "Black", 
+      "record_count": 2, 
+      "source_name": "Captain Doniah Mothutsane"
+    }, 
+    {
+      "affiliation": "South African Police Service - SAPS", 
+      "affiliation_group": "Justice System", 
+      "gender": "Female", 
+      "race": "Black", 
+      "record_count": 4, 
+      "source_name": "Colonel Noxolo Kweza"
+    }, 
+    {
+      "affiliation": "South African Police Service - SAPS", 
+      "affiliation_group": "Justice System", 
+      "gender": "Female", 
+      "race": "Black", 
+      "record_count": 2, 
+      "source_name": "Doniah Mothutsane"
+    }, 
+    {
+      "affiliation": "South African Police Service - SAPS", 
+      "affiliation_group": "Justice System", 
+      "gender": "Female", 
+      "race": "Black", 
+      "record_count": 4, 
+      "source_name": "Heila Niemand"
+    }, 
+    {
+      "affiliation": "South African Police Service - SAPS", 
+      "affiliation_group": "Justice System", 
+      "gender": "Female", 
+      "race": "Black", 
+      "record_count": 3, 
+      "source_name": "Malebo Khosana"
+    }, 
+    {
+      "affiliation": "South African Police Service - SAPS", 
+      "affiliation_group": "Justice System", 
+      "gender": "Female", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "Mamello Mokhuoane"
+    }, 
+    {
+      "affiliation": "South African Police Service - SAPS", 
+      "affiliation_group": "Justice System", 
+      "gender": "Female", 
+      "race": "Black", 
+      "record_count": 3, 
+      "source_name": "Mmamonnye Ngobeni"
+    }, 
+    {
+      "affiliation": "South African Police Service - SAPS", 
+      "affiliation_group": "Justice System", 
+      "gender": "Female", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "Nondumiso Paul"
+    }, 
+    {
+      "affiliation": "South African Police Service - SAPS", 
+      "affiliation_group": "Justice System", 
+      "gender": "Female", 
+      "race": "Black", 
+      "record_count": 20, 
+      "source_name": "Noxolo Kweza"
+    }, 
+    {
+      "affiliation": "South African Police Service - SAPS", 
+      "affiliation_group": "Justice System", 
+      "gender": "Female", 
+      "race": "Black", 
+      "record_count": 6, 
+      "source_name": "Riah Phiyega"
+    }, 
+    {
+      "affiliation": "South African Police Service - SAPS", 
+      "affiliation_group": "Justice System", 
+      "gender": "Female", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "Sarah Lesabane"
+    }, 
+    {
+      "affiliation": "South African Police Service - SAPS", 
+      "affiliation_group": "Justice System", 
+      "gender": "Female", 
+      "race": "Black", 
+      "record_count": 6, 
+      "source_name": "Xoli Mbele"
+    }, 
+    {
+      "affiliation": "South African Police Service - SAPS", 
+      "affiliation_group": "Justice System", 
+      "gender": "Female", 
+      "race": "Coloured", 
+      "record_count": 10, 
+      "source_name": "Ronel Otto"
+    }, 
+    {
+      "affiliation": "Other justice system organisation not listed", 
+      "affiliation_group": "Justice System", 
+      "gender": "Female", 
+      "race": "White", 
+      "record_count": 3, 
+      "source_name": "Ann Skelton"
+    }, 
+    {
+      "affiliation": "Lawyer / Prosecutor / Advocate", 
+      "affiliation_group": "Justice System", 
+      "gender": "Female", 
+      "race": "White", 
+      "record_count": 1, 
+      "source_name": "Carina du Toit"
+    }, 
+    {
+      "affiliation": "Judge", 
+      "affiliation_group": "Justice System", 
+      "gender": "Female", 
+      "race": "White", 
+      "record_count": 4, 
+      "source_name": "Elizabeth Baartman"
+    }, 
+    {
+      "affiliation": "City of Cape Town Metropolitican Municipality", 
+      "affiliation_group": "Local Government", 
+      "gender": "Female", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Priya Reddy"
+    }, 
+    {
+      "affiliation": "Ministry of Tourism, Environment and Natural Resources", 
+      "affiliation_group": "National Government", 
+      "gender": "Female", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "ellen johnson sirleaf"
+    }, 
+    {
+      "affiliation": "Ministry of Tourism, Environment and Natural Resources", 
+      "affiliation_group": "National Government", 
+      "gender": "Female", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Mary Kluk"
+    }, 
+    {
+      "affiliation": "Ministry of Agriculture and Cooperatives", 
+      "affiliation_group": "National Government", 
+      "gender": "Female", 
+      "race": null, 
+      "record_count": 3, 
+      "source_name": "Merle Collins"
+    }, 
+    {
+      "affiliation": "Ministry of Education", 
+      "affiliation_group": "National Government", 
+      "gender": "Female", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Natasha Louw"
+    }, 
+    {
+      "affiliation": "Ministry of Education", 
+      "affiliation_group": "National Government", 
+      "gender": "Female", 
+      "race": null, 
+      "record_count": 2, 
+      "source_name": "Sinethemba Memela"
+    }, 
+    {
+      "affiliation": "Ministry of Agriculture and Cooperatives", 
+      "affiliation_group": "National Government", 
+      "gender": "Female", 
+      "race": null, 
+      "record_count": 6, 
+      "source_name": "Veena Budhram"
+    }, 
+    {
+      "affiliation": "Department of Basic Education", 
+      "affiliation_group": "National Government", 
+      "gender": "Female", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "Angie Motshekga"
+    }, 
+    {
+      "affiliation": "Department of Water and Environmental  Affairs", 
+      "affiliation_group": "National Government", 
+      "gender": "Female", 
+      "race": "Black", 
+      "record_count": 12, 
+      "source_name": "Edna Molewa"
+    }, 
+    {
+      "affiliation": "Department of Communications", 
+      "affiliation_group": "National Government", 
+      "gender": "Female", 
+      "race": "Black", 
+      "record_count": 5, 
+      "source_name": "Faith Muthambi"
+    }, 
+    {
+      "affiliation": "Department of Police", 
+      "affiliation_group": "National Government", 
+      "gender": "Female", 
+      "race": "Black", 
+      "record_count": 2, 
+      "source_name": "Maggie Sotyu"
+    }, 
+    {
+      "affiliation": "Department of Home Affairs", 
+      "affiliation_group": "National Government", 
+      "gender": "Female", 
+      "race": "Black", 
+      "record_count": 3, 
+      "source_name": "Naledi Pandor"
+    }, 
+    {
+      "affiliation": "Department of Defence and Military Veterans", 
+      "affiliation_group": "National Government", 
+      "gender": "Female", 
+      "race": "Black", 
+      "record_count": 2, 
+      "source_name": "Nosiviwe Mapisa-Nqakula"
+    }, 
+    {
+      "affiliation": "Department of Communications", 
+      "affiliation_group": "National Government", 
+      "gender": "Female", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "Phumla Williams"
+    }, 
+    {
+      "affiliation": "Department of Health", 
+      "affiliation_group": "National Government", 
+      "gender": "Female", 
+      "race": "Black", 
+      "record_count": 2, 
+      "source_name": "Sbongiseni Dhlomo"
+    }, 
+    {
+      "affiliation": "Department of Mineral Resources", 
+      "affiliation_group": "National Government", 
+      "gender": "Female", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "Susan Shabangu"
+    }, 
+    {
+      "affiliation": "Ministry of Tourism, Environment and Natural Resources", 
+      "affiliation_group": "National Government", 
+      "gender": "Female", 
+      "race": "Black", 
+      "record_count": 2, 
+      "source_name": "Thandi Modise"
+    }, 
+    {
+      "affiliation": "Department of Social Development", 
+      "affiliation_group": "National Government", 
+      "gender": "Female", 
+      "race": "Black", 
+      "record_count": 2, 
+      "source_name": "Zoleka Capa"
+    }, 
+    {
+      "affiliation": "Department of Agriculture, Forestry and Fisheries", 
+      "affiliation_group": "National Government", 
+      "gender": "Female", 
+      "race": "Coloured", 
+      "record_count": 3, 
+      "source_name": "Tina Joemat-Pettersson"
+    }, 
+    {
+      "affiliation": "Department of Basic Education", 
+      "affiliation_group": "National Government", 
+      "gender": "Female", 
+      "race": "White", 
+      "record_count": 3, 
+      "source_name": "Bronagh Casey"
+    }, 
+    {
+      "affiliation": "NGOs / CBOs / FBOs", 
+      "affiliation_group": "NGOs / CBOs / FBOs", 
+      "gender": "Female", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Carolyn Miles"
+    }, 
+    {
+      "affiliation": "NGOs / CBOs / FBOs", 
+      "affiliation_group": "NGOs / CBOs / FBOs", 
+      "gender": "Female", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Lucy Jamieson"
+    }, 
+    {
+      "affiliation": "NGOs / CBOs / FBOs", 
+      "affiliation_group": "NGOs / CBOs / FBOs", 
+      "gender": "Female", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Rhoda Kadalie"
+    }, 
+    {
+      "affiliation": "NGOs / CBOs / FBOs", 
+      "affiliation_group": "NGOs / CBOs / FBOs", 
+      "gender": "Female", 
+      "race": "White", 
+      "record_count": 1, 
+      "source_name": "Andrea Thompson"
+    }, 
+    {
+      "affiliation": "NGOs / CBOs / FBOs", 
+      "affiliation_group": "NGOs / CBOs / FBOs", 
+      "gender": "Female", 
+      "race": "White", 
+      "record_count": 2, 
+      "source_name": "Carin Holmes"
+    }, 
+    {
+      "affiliation": "NGOs / CBOs / FBOs", 
+      "affiliation_group": "NGOs / CBOs / FBOs", 
+      "gender": "Female", 
+      "race": "White", 
+      "record_count": 1, 
+      "source_name": "Lizette Lancaster"
+    }, 
+    {
+      "affiliation": "Human Rights Watch", 
+      "affiliation_group": "NGOs / CBOs / FBOs", 
+      "gender": "Female", 
+      "race": "White", 
+      "record_count": 2, 
+      "source_name": "Sarah Leah Whitson"
+    }, 
+    {
+      "affiliation": "Democratic Alliance/Demokratiese Alliansie - DA", 
+      "affiliation_group": "Political Parties", 
+      "gender": "Female", 
+      "race": null, 
+      "record_count": 15, 
+      "source_name": "John Steenhuisen"
+    }, 
+    {
+      "affiliation": "Congress of the People - Cope", 
+      "affiliation_group": "Political Parties", 
+      "gender": "Female", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Juli Kilian"
+    }, 
+    {
+      "affiliation": "Democratic Alliance/Demokratiese Alliansie - DA", 
+      "affiliation_group": "Political Parties", 
+      "gender": "Female", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Marian Shinn"
+    }, 
+    {
+      "affiliation": "Democratic Alliance/Demokratiese Alliansie - DA", 
+      "affiliation_group": "Political Parties", 
+      "gender": "Female", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Natasha Michaels"
+    }, 
+    {
+      "affiliation": "African National Congress - ANC", 
+      "affiliation_group": "Political Parties", 
+      "gender": "Female", 
+      "race": "Black", 
+      "record_count": 28, 
+      "source_name": "Baleka Mbete"
+    }, 
+    {
+      "affiliation": "Democratic Alliance/Demokratiese Alliansie - DA", 
+      "affiliation_group": "Political Parties", 
+      "gender": "Female", 
+      "race": "Black", 
+      "record_count": 6, 
+      "source_name": "Lindiwe Mazibuko"
+    }, 
+    {
+      "affiliation": "Agang SA", 
+      "affiliation_group": "Political Parties", 
+      "gender": "Female", 
+      "race": "Black", 
+      "record_count": 2, 
+      "source_name": "Mamphela Ramphele"
+    }, 
+    {
+      "affiliation": "Democratic Alliance/Demokratiese Alliansie - DA", 
+      "affiliation_group": "Political Parties", 
+      "gender": "Female", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "Mbali Ntuli"
+    }, 
+    {
+      "affiliation": "Democratic Alliance/Demokratiese Alliansie - DA", 
+      "affiliation_group": "Political Parties", 
+      "gender": "Female", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "Phumzile van Damme"
+    }, 
+    {
+      "affiliation": "Democratic Alliance/Demokratiese Alliansie - DA", 
+      "affiliation_group": "Political Parties", 
+      "gender": "Female", 
+      "race": "Coloured", 
+      "record_count": 10, 
+      "source_name": "Patricia de Lille"
+    }, 
+    {
+      "affiliation": "African National Congress - ANC", 
+      "affiliation_group": "Political Parties", 
+      "gender": "Female", 
+      "race": "White", 
+      "record_count": 1, 
+      "source_name": "Barbara Creecy"
+    }, 
+    {
+      "affiliation": "Democratic Alliance/Demokratiese Alliansie - DA", 
+      "affiliation_group": "Political Parties", 
+      "gender": "Female", 
+      "race": "White", 
+      "record_count": 7, 
+      "source_name": "Dianne Kohler Barnard"
+    }, 
+    {
+      "affiliation": "Media - editor, jourmalist, dj, presenter, critic, public relations", 
+      "affiliation_group": "Professionals", 
+      "gender": "Female", 
+      "race": null, 
+      "record_count": 2, 
+      "source_name": "Beeld"
+    }, 
+    {
+      "affiliation": "Religion - priest, traditionalist, all faiths", 
+      "affiliation_group": "Professionals", 
+      "gender": "Female", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Francis"
+    }, 
+    {
+      "affiliation": "Prominent people/ celebrities", 
+      "affiliation_group": "Professionals", 
+      "gender": "Female", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Khloe Kardashian"
+    }, 
+    {
+      "affiliation": "Prominent people/ celebrities", 
+      "affiliation_group": "Professionals", 
+      "gender": "Female", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Kim Kardashian West"
+    }, 
+    {
+      "affiliation": "Prominent people/ celebrities", 
+      "affiliation_group": "Professionals", 
+      "gender": "Female", 
+      "race": null, 
+      "record_count": 4, 
+      "source_name": "Yvonne Chaka Chaka"
+    }, 
+    {
+      "affiliation": "Prominent people/ celebrities", 
+      "affiliation_group": "Professionals", 
+      "gender": "Female", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "Graca Machel"
+    }, 
+    {
+      "affiliation": "Entertainer - dancer, actor, singer, artist", 
+      "affiliation_group": "Professionals", 
+      "gender": "Female", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "Lebo Mashile"
+    }, 
+    {
+      "affiliation": "Media - editor, jourmalist, dj, presenter, critic, public relations", 
+      "affiliation_group": "Professionals", 
+      "gender": "Female", 
+      "race": "White", 
+      "record_count": 4, 
+      "source_name": "Angela Quintal"
+    }, 
+    {
+      "affiliation": "Criminal - convicted criminal, suspected criminal", 
+      "affiliation_group": "Professionals", 
+      "gender": "Female", 
+      "race": "White", 
+      "record_count": 1, 
+      "source_name": "Clarence"
+    }, 
+    {
+      "affiliation": "Prominent people/ celebrities", 
+      "affiliation_group": "Professionals", 
+      "gender": "Female", 
+      "race": "White", 
+      "record_count": 9, 
+      "source_name": "Hillary  Clinton"
+    }, 
+    {
+      "affiliation": "Prominent people/ celebrities", 
+      "affiliation_group": "Professionals", 
+      "gender": "Female", 
+      "race": "White", 
+      "record_count": 5, 
+      "source_name": "Hillary Rodham Clinton"
+    }, 
+    {
+      "affiliation": "Entertainer - dancer, actor, singer, artist", 
+      "affiliation_group": "Professionals", 
+      "gender": "Female", 
+      "race": "White", 
+      "record_count": 3, 
+      "source_name": "Madonna"
+    }, 
+    {
+      "affiliation": "Criminal - convicted criminal, suspected criminal", 
+      "affiliation_group": "Professionals", 
+      "gender": "Female", 
+      "race": "White", 
+      "record_count": 1, 
+      "source_name": "Tania Clarence"
+    }, 
+    {
+      "affiliation": "KwaZulu-Natal Provincial Government", 
+      "affiliation_group": "Provincial Government", 
+      "gender": "Female", 
+      "race": null, 
+      "record_count": 5, 
+      "source_name": "Belinda Scott"
+    }, 
+    {
+      "affiliation": "Gauteng Provincial Government", 
+      "affiliation_group": "Provincial Government", 
+      "gender": "Female", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "Lebogang Maile"
+    }, 
+    {
+      "affiliation": "Eastern Cape Provincial Government", 
+      "affiliation_group": "Provincial Government", 
+      "gender": "Female", 
+      "race": "Black", 
+      "record_count": 2, 
+      "source_name": "Pemmy Majodina"
+    }, 
+    {
+      "affiliation": "Gauteng Provincial Government", 
+      "affiliation_group": "Provincial Government", 
+      "gender": "Female", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "Phumla Sekhonyane"
+    }, 
+    {
+      "affiliation": "Western Cape Provincial Government", 
+      "affiliation_group": "Provincial Government", 
+      "gender": "Female", 
+      "race": "White", 
+      "record_count": 16, 
+      "source_name": "Charlotte Powell"
+    }, 
+    {
+      "affiliation": "Western Cape Provincial Government", 
+      "affiliation_group": "Provincial Government", 
+      "gender": "Female", 
+      "race": "White", 
+      "record_count": 4, 
+      "source_name": "Debbie Sch\u00e4fer"
+    }, 
+    {
+      "affiliation": "Western Cape Provincial Government", 
+      "affiliation_group": "Provincial Government", 
+      "gender": "Female", 
+      "race": "White", 
+      "record_count": 4, 
+      "source_name": "Helen Zille"
+    }, 
+    {
+      "affiliation": "COSATU", 
+      "affiliation_group": "Unions", 
+      "gender": "Female", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "Zingiswa Losi"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Agiza Hlongwane"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Anthony Butler"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Bernie Fanaroff"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 2, 
+      "source_name": "Bob Corker"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Brian Joffe"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 4, 
+      "source_name": "Carel Taute"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 5, 
+      "source_name": "Chris Galliers"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 3, 
+      "source_name": "Dirk de Vos"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Don Thompson"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Douw Steyn"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Du Plessis"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 2, 
+      "source_name": "Du Preez"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Dumisani Hlophe"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 4, 
+      "source_name": "Duncan Alfreds"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Fikile-Ntsikelelo Moya"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 2, 
+      "source_name": "Frank Chikane"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Gavin Silber"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 5, 
+      "source_name": "Ian Neilson"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 3, 
+      "source_name": "Ibrahim Boubacar Keita"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 4, 
+      "source_name": "Ismail Vadi"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 5, 
+      "source_name": "Jaap Cilliers"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 2, 
+      "source_name": "Jacques Kallis"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 16, 
+      "source_name": "Jeremy Gauntlett"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Joel Netshitenzhe"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 2, 
+      "source_name": "Johann Rupert"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "John Bailey"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "John F Kennedy"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "John Lennon"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Joice Mujuru"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Jonas Savimbi"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Jos\u00e9 Mourinho"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Joseph Kony"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 2, 
+      "source_name": "Kuseni Dlamini"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Lindiwe Mlandu"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 3, 
+      "source_name": "Marius Redelinghuys"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Martin Ewi"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 2, 
+      "source_name": "Mbulelo Musi"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 2, 
+      "source_name": "Michael"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 3, 
+      "source_name": "Michael Mpofu"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 2, 
+      "source_name": "Mike Wills"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Mohamed Morsi"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Mohammad Javad Zarif"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 4, 
+      "source_name": "Morn\u00e9"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 4, 
+      "source_name": "Nick Gordon"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 3, 
+      "source_name": "Nicolas Maduro"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Nomboniso Gasa"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 2, 
+      "source_name": "Obert Mpofu"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 2, 
+      "source_name": "Okmalumkoolkat"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Oxfam"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 3, 
+      "source_name": "Peter Fabricius"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Phil Diamond"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Prince"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Raenette Taljaard"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Ray Hartley"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 4, 
+      "source_name": "Robert McBride"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Sakhela Buhlungu"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Salie Joubert"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 4, 
+      "source_name": "Sandile Ngcobo"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 2, 
+      "source_name": "Sebastian Vettel"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 2, 
+      "source_name": "Shadrack Sibiya"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Shane Warne"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 2, 
+      "source_name": "Sidwell Medupe"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 4, 
+      "source_name": "Stuart Baxter"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 5, 
+      "source_name": "Suren Naidoo"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 2, 
+      "source_name": "Terrence McNamee"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Victor Kgomoeswana"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Vuyisile Msila"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Walter Chidakwa"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Walter Theledi"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "William Gumede"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "William Saunderson-Meyer"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Xolisa Mabhongo"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Yusuf Omar"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 3, 
+      "source_name": "Didymus Mutasa"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "Emmerson Mnangagwa"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 5, 
+      "source_name": "Jonathan Moyo"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "Jovial Rantao"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "Miller Matola"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "Mphumzi Zuzile"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 8, 
+      "source_name": "Mugabe"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "Patrick Chinamasa"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 5, 
+      "source_name": "Rugare Gumbo"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 2, 
+      "source_name": "Sandile Gumede"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 3, 
+      "source_name": "Saviour Kasukuwere"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "Tsholofelo Mathibedi"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "Willie Seriti"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "Xolela Mangcu"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": "White", 
+      "record_count": 8, 
+      "source_name": "Brett Herron"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": "White", 
+      "record_count": 2, 
+      "source_name": "Johan Theron"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": "White", 
+      "record_count": 1, 
+      "source_name": "Krejcir"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": "White", 
+      "record_count": 1, 
+      "source_name": "Nic Dawes"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": "White", 
+      "record_count": 2, 
+      "source_name": "Radovan Krejcir"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": "White", 
+      "record_count": 5, 
+      "source_name": "Richard Young"
+    }, 
+    {
+      "affiliation": null, 
+      "affiliation_group": null, 
+      "gender": "Male", 
+      "race": "White", 
+      "record_count": 6, 
+      "source_name": "Wouter Basson"
+    }, 
+    {
+      "affiliation": "Academics / Experts / Researchers", 
+      "affiliation_group": "Academics / Experts / Researchers", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 3, 
+      "source_name": "Chris Yelland"
+    }, 
+    {
+      "affiliation": "Academics / Experts / Researchers", 
+      "affiliation_group": "Academics / Experts / Researchers", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Iraj Abedian"
+    }, 
+    {
+      "affiliation": "Other university / research centre / institute not listed", 
+      "affiliation_group": "Academics / Experts / Researchers", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 3, 
+      "source_name": "Johan Burger"
+    }, 
+    {
+      "affiliation": "Academics / Experts / Researchers", 
+      "affiliation_group": "Academics / Experts / Researchers", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 2, 
+      "source_name": "Aubrey Matshiqi"
+    }, 
+    {
+      "affiliation": "Rhodes University", 
+      "affiliation_group": "Academics / Experts / Researchers", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 2, 
+      "source_name": "Sizwe Mabizela"
+    }, 
+    {
+      "affiliation": "Academics / Experts / Researchers", 
+      "affiliation_group": "Academics / Experts / Researchers", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 3, 
+      "source_name": "Somadoda Fikeni"
+    }, 
+    {
+      "affiliation": "University of the Free State", 
+      "affiliation_group": "Academics / Experts / Researchers", 
+      "gender": "Male", 
+      "race": "Coloured", 
+      "record_count": 5, 
+      "source_name": "Jonathan Jansen"
+    }, 
+    {
+      "affiliation": "Academics / Experts / Researchers", 
+      "affiliation_group": "Academics / Experts / Researchers", 
+      "gender": "Male", 
+      "race": "Indian", 
+      "record_count": 5, 
+      "source_name": "Adam Habib"
+    }, 
+    {
+      "affiliation": "Academics / Experts / Researchers", 
+      "affiliation_group": "Academics / Experts / Researchers", 
+      "gender": "Male", 
+      "race": "Indian", 
+      "record_count": 2, 
+      "source_name": "Azar Jammine"
+    }, 
+    {
+      "affiliation": "Academics / Experts / Researchers", 
+      "affiliation_group": "Academics / Experts / Researchers", 
+      "gender": "Male", 
+      "race": "White", 
+      "record_count": 1, 
+      "source_name": "Daniel Silke"
+    }, 
+    {
+      "affiliation": "Academics / Experts / Researchers", 
+      "affiliation_group": "Academics / Experts / Researchers", 
+      "gender": "Male", 
+      "race": "White", 
+      "record_count": 1, 
+      "source_name": "Graeme Bloch"
+    }, 
+    {
+      "affiliation": "Academics / Experts / Researchers", 
+      "affiliation_group": "Academics / Experts / Researchers", 
+      "gender": "Male", 
+      "race": "White", 
+      "record_count": 1, 
+      "source_name": "Hans Schroder"
+    }, 
+    {
+      "affiliation": "University of Cape Town", 
+      "affiliation_group": "Academics / Experts / Researchers", 
+      "gender": "Male", 
+      "race": "White", 
+      "record_count": 3, 
+      "source_name": "Max Price"
+    }, 
+    {
+      "affiliation": "Other university / research centre / institute not listed", 
+      "affiliation_group": "Academics / Experts / Researchers", 
+      "gender": "Male", 
+      "race": "White", 
+      "record_count": 1, 
+      "source_name": "Paul Hoffman"
+    }, 
+    {
+      "affiliation": "Academics / Experts / Researchers", 
+      "affiliation_group": "Academics / Experts / Researchers", 
+      "gender": "Male", 
+      "race": "White", 
+      "record_count": 2, 
+      "source_name": "Peter Attard Montalto"
+    }, 
+    {
+      "affiliation": "Academics / Experts / Researchers", 
+      "affiliation_group": "Academics / Experts / Researchers", 
+      "gender": "Male", 
+      "race": "White", 
+      "record_count": 1, 
+      "source_name": "Pierre de Vos"
+    }, 
+    {
+      "affiliation": "Academics / Experts / Researchers", 
+      "affiliation_group": "Academics / Experts / Researchers", 
+      "gender": "Male", 
+      "race": "White", 
+      "record_count": 2, 
+      "source_name": "Ryan Cummings"
+    }, 
+    {
+      "affiliation": "Academics / Experts / Researchers", 
+      "affiliation_group": "Academics / Experts / Researchers", 
+      "gender": "Male", 
+      "race": "White", 
+      "record_count": 2, 
+      "source_name": "Steven Friedman"
+    }, 
+    {
+      "affiliation": "University of Cape Town", 
+      "affiliation_group": "Academics / Experts / Researchers", 
+      "gender": "Male", 
+      "race": "White", 
+      "record_count": 1, 
+      "source_name": "Tim Noakes"
+    }, 
+    {
+      "affiliation": "Uncle", 
+      "affiliation_group": "Citizens", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 2, 
+      "source_name": "Bongani Dlamini"
+    }, 
+    {
+      "affiliation": "Mother", 
+      "affiliation_group": "Citizens", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Kris Jenner"
+    }, 
+    {
+      "affiliation": "Witness", 
+      "affiliation_group": "Citizens", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Mr X"
+    }, 
+    {
+      "affiliation": "Spouse - husband or wife", 
+      "affiliation_group": "Citizens", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Nick Cannon"
+    }, 
+    {
+      "affiliation": "Family Member", 
+      "affiliation_group": "Citizens", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "Lebogang"
+    }, 
+    {
+      "affiliation": "Other citizen not listed", 
+      "affiliation_group": "Citizens", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 4, 
+      "source_name": "Peter Pham"
+    }, 
+    {
+      "affiliation": "Independent Electoral Commission - IEC", 
+      "affiliation_group": "Commisions  & Independent Bodies", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "Dikgang Moseneke"
+    }, 
+    {
+      "affiliation": "Human Rights Commission - HRC", 
+      "affiliation_group": "Commisions  & Independent Bodies", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 10, 
+      "source_name": "Isaac Mangena"
+    }, 
+    {
+      "affiliation": "Public Protector", 
+      "affiliation_group": "Commisions  & Independent Bodies", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "Oupa Segalwe"
+    }, 
+    {
+      "affiliation": "Other commission / independent body not listed", 
+      "affiliation_group": "Commisions  & Independent Bodies", 
+      "gender": "Male", 
+      "race": "White", 
+      "record_count": 6, 
+      "source_name": "Francois Beukman"
+    }, 
+    {
+      "affiliation": "Other commission / independent body not listed", 
+      "affiliation_group": "Commisions  & Independent Bodies", 
+      "gender": "Male", 
+      "race": "White", 
+      "record_count": 3, 
+      "source_name": "Frans Cronj\u00e9"
+    }, 
+    {
+      "affiliation": "Corporations", 
+      "affiliation_group": "Corporations", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Chauke"
+    }, 
+    {
+      "affiliation": "Nedbank", 
+      "affiliation_group": "Corporations", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Isaac Matshekgo"
+    }, 
+    {
+      "affiliation": "SAA", 
+      "affiliation_group": "Corporations", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 8, 
+      "source_name": "Tlali Tlali"
+    }, 
+    {
+      "affiliation": "SAA", 
+      "affiliation_group": "Corporations", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "Monwabisi Kalawe"
+    }, 
+    {
+      "affiliation": "Other corporation not listed", 
+      "affiliation_group": "Corporations", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 3, 
+      "source_name": "Sizwe Nxasana"
+    }, 
+    {
+      "affiliation": "Anglo American", 
+      "affiliation_group": "Corporations", 
+      "gender": "Male", 
+      "race": "White", 
+      "record_count": 3, 
+      "source_name": "Chris Griffith"
+    }, 
+    {
+      "affiliation": "Other corporation not listed", 
+      "affiliation_group": "Corporations", 
+      "gender": "Male", 
+      "race": "White", 
+      "record_count": 1, 
+      "source_name": "Gareth Newham"
+    }, 
+    {
+      "affiliation": "Other corporation not listed", 
+      "affiliation_group": "Corporations", 
+      "gender": "Male", 
+      "race": "White", 
+      "record_count": 1, 
+      "source_name": "Rob Baker"
+    }, 
+    {
+      "affiliation": "Foreign Government", 
+      "affiliation_group": "International Groups / Donors", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Benjamin Crump"
+    }, 
+    {
+      "affiliation": "Foreign Government", 
+      "affiliation_group": "International Groups / Donors", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Binyamin Netanyahu"
+    }, 
+    {
+      "affiliation": "International Groups / Donors", 
+      "affiliation_group": "International Groups / Donors", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Eric Shultz"
+    }, 
+    {
+      "affiliation": "International Body - other than UN and AU", 
+      "affiliation_group": "International Groups / Donors", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 2, 
+      "source_name": "Gavin Rajah"
+    }, 
+    {
+      "affiliation": "Foreign Government", 
+      "affiliation_group": "International Groups / Donors", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "George Osborne"
+    }, 
+    {
+      "affiliation": "Foreign Government", 
+      "affiliation_group": "International Groups / Donors", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "John McCain"
+    }, 
+    {
+      "affiliation": "Foreign Government", 
+      "affiliation_group": "International Groups / Donors", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 2, 
+      "source_name": "Mahmud Abbas"
+    }, 
+    {
+      "affiliation": "Foreign Government", 
+      "affiliation_group": "International Groups / Donors", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 2, 
+      "source_name": "Manuel Valls"
+    }, 
+    {
+      "affiliation": "Foreign Government", 
+      "affiliation_group": "International Groups / Donors", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Mohamed Ali Aroui"
+    }, 
+    {
+      "affiliation": "International Political Figure", 
+      "affiliation_group": "International Groups / Donors", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Ngozi Okonjo- Iweala"
+    }, 
+    {
+      "affiliation": "Foreign Government", 
+      "affiliation_group": "International Groups / Donors", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 7, 
+      "source_name": "Rami Abdel Rahman"
+    }, 
+    {
+      "affiliation": "Foreign Government", 
+      "affiliation_group": "International Groups / Donors", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Riek Machar"
+    }, 
+    {
+      "affiliation": "United Nations - UN", 
+      "affiliation_group": "International Groups / Donors", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Rupert Colville"
+    }, 
+    {
+      "affiliation": "Foreign Government", 
+      "affiliation_group": "International Groups / Donors", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 2, 
+      "source_name": "Williams"
+    }, 
+    {
+      "affiliation": "United Nations (UN)", 
+      "affiliation_group": "International Groups / Donors", 
+      "gender": "Male", 
+      "race": "Asian", 
+      "record_count": 6, 
+      "source_name": "Ban Ki-moon"
+    }, 
+    {
+      "affiliation": "Southern African Development Community (SADC)", 
+      "affiliation_group": "International Groups / Donors", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 7, 
+      "source_name": "Cyril Ramaphosa"
+    }, 
+    {
+      "affiliation": "Foreign Government", 
+      "affiliation_group": "International Groups / Donors", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 5, 
+      "source_name": "Goodluck Jonathan"
+    }, 
+    {
+      "affiliation": "African Union (AU)", 
+      "affiliation_group": "International Groups / Donors", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "Kgalema Motlanthe"
+    }, 
+    {
+      "affiliation": "International Political Figure", 
+      "affiliation_group": "International Groups / Donors", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 7, 
+      "source_name": "Mike Omeri"
+    }, 
+    {
+      "affiliation": "International Political Figure", 
+      "affiliation_group": "International Groups / Donors", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 6, 
+      "source_name": "Nelson Mandela"
+    }, 
+    {
+      "affiliation": "Foreign Government", 
+      "affiliation_group": "International Groups / Donors", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 2, 
+      "source_name": "President Goodluck Jonathan"
+    }, 
+    {
+      "affiliation": "Foreign Government", 
+      "affiliation_group": "International Groups / Donors", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 21, 
+      "source_name": "Robert Mugabe"
+    }, 
+    {
+      "affiliation": "Foreign Government", 
+      "affiliation_group": "International Groups / Donors", 
+      "gender": "Male", 
+      "race": "Indian", 
+      "record_count": 4, 
+      "source_name": "Narendra Modi"
+    }, 
+    {
+      "affiliation": "Foreign Government", 
+      "affiliation_group": "International Groups / Donors", 
+      "gender": "Male", 
+      "race": "Other", 
+      "record_count": 8, 
+      "source_name": "Benjamin Netanyahu"
+    }, 
+    {
+      "affiliation": "Foreign Government", 
+      "affiliation_group": "International Groups / Donors", 
+      "gender": "Male", 
+      "race": "Other", 
+      "record_count": 1, 
+      "source_name": "Hani Abdel-Latif"
+    }, 
+    {
+      "affiliation": "Foreign Government", 
+      "affiliation_group": "International Groups / Donors", 
+      "gender": "Male", 
+      "race": "Other", 
+      "record_count": 1, 
+      "source_name": "Tzipi Livni"
+    }, 
+    {
+      "affiliation": "United Nations - UN", 
+      "affiliation_group": "International Groups / Donors", 
+      "gender": "Male", 
+      "race": "White", 
+      "record_count": 1, 
+      "source_name": "Anthony Lake"
+    }, 
+    {
+      "affiliation": "Foreign Government", 
+      "affiliation_group": "International Groups / Donors", 
+      "gender": "Male", 
+      "race": "White", 
+      "record_count": 1, 
+      "source_name": "Chris Murphy"
+    }, 
+    {
+      "affiliation": "Foreign Government", 
+      "affiliation_group": "International Groups / Donors", 
+      "gender": "Male", 
+      "race": "White", 
+      "record_count": 2, 
+      "source_name": "David Cameron"
+    }, 
+    {
+      "affiliation": "Foreign Government", 
+      "affiliation_group": "International Groups / Donors", 
+      "gender": "Male", 
+      "race": "White", 
+      "record_count": 4, 
+      "source_name": "Francois Hollande"
+    }, 
+    {
+      "affiliation": "Foreign Government", 
+      "affiliation_group": "International Groups / Donors", 
+      "gender": "Male", 
+      "race": "White", 
+      "record_count": 2, 
+      "source_name": "John Kerry"
+    }, 
+    {
+      "affiliation": "Foreign Government", 
+      "affiliation_group": "International Groups / Donors", 
+      "gender": "Male", 
+      "race": "White", 
+      "record_count": 5, 
+      "source_name": "Josh Earnest"
+    }, 
+    {
+      "affiliation": "Foreign Government", 
+      "affiliation_group": "International Groups / Donors", 
+      "gender": "Male", 
+      "race": "White", 
+      "record_count": 2, 
+      "source_name": "Laurent Fabius"
+    }, 
+    {
+      "affiliation": "Foreign Government", 
+      "affiliation_group": "International Groups / Donors", 
+      "gender": "Male", 
+      "race": "White", 
+      "record_count": 3, 
+      "source_name": "Patrick Gaspard"
+    }, 
+    {
+      "affiliation": "Foreign Government", 
+      "affiliation_group": "International Groups / Donors", 
+      "gender": "Male", 
+      "race": "White", 
+      "record_count": 4, 
+      "source_name": "Philip Hammond"
+    }, 
+    {
+      "affiliation": "Foreign Government", 
+      "affiliation_group": "International Groups / Donors", 
+      "gender": "Male", 
+      "race": "White", 
+      "record_count": 2, 
+      "source_name": "Prime Minister Benjamin Netanyahu"
+    }, 
+    {
+      "affiliation": "Foreign Government", 
+      "affiliation_group": "International Groups / Donors", 
+      "gender": "Male", 
+      "race": "White", 
+      "record_count": 13, 
+      "source_name": "Tony Abbott"
+    }, 
+    {
+      "affiliation": "Foreign Government", 
+      "affiliation_group": "International Groups / Donors", 
+      "gender": "Male", 
+      "race": "White", 
+      "record_count": 3, 
+      "source_name": "Vladimir Putin"
+    }, 
+    {
+      "affiliation": "Judge", 
+      "affiliation_group": "Justice System", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 4, 
+      "source_name": "Andre Geldenhuys"
+    }, 
+    {
+      "affiliation": "South African Police Service - SAPS", 
+      "affiliation_group": "Justice System", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 9, 
+      "source_name": "Andr\u00e8 Traut"
+    }, 
+    {
+      "affiliation": "Lawyer / Prosecutor / Advocate", 
+      "affiliation_group": "Justice System", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 2, 
+      "source_name": "Arnand Nepaul"
+    }, 
+    {
+      "affiliation": "Lawyer / Prosecutor / Advocate", 
+      "affiliation_group": "Justice System", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Dario Milo"
+    }, 
+    {
+      "affiliation": "Lawyer / Prosecutor / Advocate", 
+      "affiliation_group": "Justice System", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Dominic Cull"
+    }, 
+    {
+      "affiliation": "Other justice system organisation not listed", 
+      "affiliation_group": "Justice System", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Dustin Cramer"
+    }, 
+    {
+      "affiliation": "Lawyer / Prosecutor / Advocate", 
+      "affiliation_group": "Justice System", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 2, 
+      "source_name": "Eric Holder"
+    }, 
+    {
+      "affiliation": "Judge", 
+      "affiliation_group": "Justice System", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 13, 
+      "source_name": "Herman Badenhorst"
+    }, 
+    {
+      "affiliation": "Foreign Police Service / Interpol", 
+      "affiliation_group": "Justice System", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "James"
+    }, 
+    {
+      "affiliation": "South African Police Service - SAPS", 
+      "affiliation_group": "Justice System", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 5, 
+      "source_name": "Kenny Africa"
+    }, 
+    {
+      "affiliation": "Foreign Police Service / Interpol", 
+      "affiliation_group": "Justice System", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Peter Lerner"
+    }, 
+    {
+      "affiliation": "Lawyers for Human Rights", 
+      "affiliation_group": "Justice System", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Richard Egan"
+    }, 
+    {
+      "affiliation": "Judge", 
+      "affiliation_group": "Justice System", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 3, 
+      "source_name": "Richard Mdluli"
+    }, 
+    {
+      "affiliation": "South African Police Service - SAPS", 
+      "affiliation_group": "Justice System", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 6, 
+      "source_name": "Sergio Kock"
+    }, 
+    {
+      "affiliation": "Constitutional Court", 
+      "affiliation_group": "Justice System", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 3, 
+      "source_name": "Shadrack Gutto"
+    }, 
+    {
+      "affiliation": "Lawyer / Prosecutor / Advocate", 
+      "affiliation_group": "Justice System", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 3, 
+      "source_name": "Van Eck"
+    }, 
+    {
+      "affiliation": "South African Police Service - SAPS", 
+      "affiliation_group": "Justice System", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 14, 
+      "source_name": "Van Wyk"
+    }, 
+    {
+      "affiliation": "Lawyer / Prosecutor / Advocate", 
+      "affiliation_group": "Justice System", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 4, 
+      "source_name": "Vusi Pikoli"
+    }, 
+    {
+      "affiliation": "Lawyer / Prosecutor / Advocate", 
+      "affiliation_group": "Justice System", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Yuri Gangai"
+    }, 
+    {
+      "affiliation": "South African Police Service - SAPS", 
+      "affiliation_group": "Justice System", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "Chaka Marope"
+    }, 
+    {
+      "affiliation": "Foreign Police Service / Interpol", 
+      "affiliation_group": "Justice System", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 3, 
+      "source_name": "Chris Olukolade"
+    }, 
+    {
+      "affiliation": "South African Police Service - SAPS", 
+      "affiliation_group": "Justice System", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 2, 
+      "source_name": "Daniel Mavimbela"
+    }, 
+    {
+      "affiliation": "South African Police Service - SAPS", 
+      "affiliation_group": "Justice System", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 4, 
+      "source_name": "Donald Mdhluli"
+    }, 
+    {
+      "affiliation": "Justice System", 
+      "affiliation_group": "Justice System", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 12, 
+      "source_name": "Eric Ntabazalila"
+    }, 
+    {
+      "affiliation": "South African Police Service - SAPS", 
+      "affiliation_group": "Justice System", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 13, 
+      "source_name": "Hangwani Mulaudzi"
+    }, 
+    {
+      "affiliation": "South African Police Service - SAPS", 
+      "affiliation_group": "Justice System", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 5, 
+      "source_name": "Jackson Manatha"
+    }, 
+    {
+      "affiliation": "South African Police Service - SAPS", 
+      "affiliation_group": "Justice System", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 38, 
+      "source_name": "Katlegot Mogale"
+    }, 
+    {
+      "affiliation": "South African Police Service - SAPS", 
+      "affiliation_group": "Justice System", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 3, 
+      "source_name": "Kay Makhubela"
+    }, 
+    {
+      "affiliation": "South African Police Service - SAPS", 
+      "affiliation_group": "Justice System", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 8, 
+      "source_name": "Kealeboga Molale"
+    }, 
+    {
+      "affiliation": "South African Police Service - SAPS", 
+      "affiliation_group": "Justice System", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 27, 
+      "source_name": "Leonard Hlathi"
+    }, 
+    {
+      "affiliation": "South African Police Service - SAPS", 
+      "affiliation_group": "Justice System", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 13, 
+      "source_name": "Lesetja Mothiba"
+    }, 
+    {
+      "affiliation": "South African Police Service - SAPS", 
+      "affiliation_group": "Justice System", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "Lieutenant General Solomon Makgale"
+    }, 
+    {
+      "affiliation": "South African Police Service - SAPS", 
+      "affiliation_group": "Justice System", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 9, 
+      "source_name": "Mack Mngomezulu"
+    }, 
+    {
+      "affiliation": "South African Police Service - SAPS", 
+      "affiliation_group": "Justice System", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 2, 
+      "source_name": "Martin Xuma,"
+    }, 
+    {
+      "affiliation": "South African Police Service - SAPS", 
+      "affiliation_group": "Justice System", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "Mashudu Pathela"
+    }, 
+    {
+      "affiliation": "South African Police Service - SAPS", 
+      "affiliation_group": "Justice System", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "Matome Tlamela"
+    }, 
+    {
+      "affiliation": "South African Police Service - SAPS", 
+      "affiliation_group": "Justice System", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 4, 
+      "source_name": "Michael Masutha"
+    }, 
+    {
+      "affiliation": "South African Police Service - SAPS", 
+      "affiliation_group": "Justice System", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 2, 
+      "source_name": "Mluleki Mbi"
+    }, 
+    {
+      "affiliation": "South African Police Service - SAPS", 
+      "affiliation_group": "Justice System", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 15, 
+      "source_name": "Moatshe Ngoepe"
+    }, 
+    {
+      "affiliation": "Justice System", 
+      "affiliation_group": "Justice System", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 2, 
+      "source_name": "Moses Dlamini"
+    }, 
+    {
+      "affiliation": "Judge", 
+      "affiliation_group": "Justice System", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "Moses Mavundla"
+    }, 
+    {
+      "affiliation": "South African Police Service - SAPS", 
+      "affiliation_group": "Justice System", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "Petros Mabuza"
+    }, 
+    {
+      "affiliation": "South African Police Service - SAPS", 
+      "affiliation_group": "Justice System", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 5, 
+      "source_name": "Sabata Mokgwabona"
+    }, 
+    {
+      "affiliation": "South African Police Service - SAPS", 
+      "affiliation_group": "Justice System", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 2, 
+      "source_name": "Sabata Mokgwabone"
+    }, 
+    {
+      "affiliation": "South African Police Service - SAPS", 
+      "affiliation_group": "Justice System", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "Shooz Magudulela"
+    }, 
+    {
+      "affiliation": "South African Police Service - SAPS", 
+      "affiliation_group": "Justice System", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 6, 
+      "source_name": "Sibusiso Chauke"
+    }, 
+    {
+      "affiliation": "South African Police Service - SAPS", 
+      "affiliation_group": "Justice System", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 12, 
+      "source_name": "Solomon Makgale"
+    }, 
+    {
+      "affiliation": "South African Police Service - SAPS", 
+      "affiliation_group": "Justice System", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 8, 
+      "source_name": "Solomone Sibiya"
+    }, 
+    {
+      "affiliation": "South African Police Service - SAPS", 
+      "affiliation_group": "Justice System", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 5, 
+      "source_name": "Thulani Ngubane"
+    }, 
+    {
+      "affiliation": "South African Police Service - SAPS", 
+      "affiliation_group": "Justice System", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 18, 
+      "source_name": "Thulani Zwane"
+    }, 
+    {
+      "affiliation": "Justice System", 
+      "affiliation_group": "Justice System", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 5, 
+      "source_name": "Wilfred Kgasago"
+    }, 
+    {
+      "affiliation": "South African Police Service - SAPS", 
+      "affiliation_group": "Justice System", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 2, 
+      "source_name": "Zimkhona Mahlangu"
+    }, 
+    {
+      "affiliation": "South African Police Service - SAPS", 
+      "affiliation_group": "Justice System", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 2, 
+      "source_name": "Zukiswa Mbombo"
+    }, 
+    {
+      "affiliation": "South African Police Service - SAPS", 
+      "affiliation_group": "Justice System", 
+      "gender": "Male", 
+      "race": "Coloured", 
+      "record_count": 13, 
+      "source_name": "Wayne Minnaar"
+    }, 
+    {
+      "affiliation": "South African Police Service - SAPS", 
+      "affiliation_group": "Justice System", 
+      "gender": "Male", 
+      "race": "Indian", 
+      "record_count": 26, 
+      "source_name": "Jay Naicker"
+    }, 
+    {
+      "affiliation": "Foreign Police Service / Interpol", 
+      "affiliation_group": "Justice System", 
+      "gender": "Male", 
+      "race": "Other", 
+      "record_count": 1, 
+      "source_name": "Hashmat Stanikzai"
+    }, 
+    {
+      "affiliation": "Judge", 
+      "affiliation_group": "Justice System", 
+      "gender": "Male", 
+      "race": "White", 
+      "record_count": 1, 
+      "source_name": "Andre Louw"
+    }, 
+    {
+      "affiliation": "South African Police Service - SAPS", 
+      "affiliation_group": "Justice System", 
+      "gender": "Male", 
+      "race": "White", 
+      "record_count": 20, 
+      "source_name": "Arno Lamoer"
+    }, 
+    {
+      "affiliation": "South African Police Service - SAPS", 
+      "affiliation_group": "Justice System", 
+      "gender": "Male", 
+      "race": "White", 
+      "record_count": 2, 
+      "source_name": "Captain FC van Wyk"
+    }, 
+    {
+      "affiliation": "Lawyer / Prosecutor / Advocate", 
+      "affiliation_group": "Justice System", 
+      "gender": "Male", 
+      "race": "White", 
+      "record_count": 6, 
+      "source_name": "Deon van Wyk"
+    }, 
+    {
+      "affiliation": "South African Police Service - SAPS", 
+      "affiliation_group": "Justice System", 
+      "gender": "Male", 
+      "race": "White", 
+      "record_count": 8, 
+      "source_name": "Frederick Van Wyk"
+    }, 
+    {
+      "affiliation": "Judge", 
+      "affiliation_group": "Justice System", 
+      "gender": "Male", 
+      "race": "White", 
+      "record_count": 4, 
+      "source_name": "Pierre Wessels"
+    }, 
+    {
+      "affiliation": "South African Police Service - SAPS", 
+      "affiliation_group": "Justice System", 
+      "gender": "Male", 
+      "race": "White", 
+      "record_count": 1, 
+      "source_name": "Robbie Roberts"
+    }, 
+    {
+      "affiliation": "Judge", 
+      "affiliation_group": "Justice System", 
+      "gender": "Male", 
+      "race": "White", 
+      "record_count": 1, 
+      "source_name": "Roy le Roux"
+    }, 
+    {
+      "affiliation": "Lawyer / Prosecutor / Advocate", 
+      "affiliation_group": "Justice System", 
+      "gender": "Male", 
+      "race": "White", 
+      "record_count": 4, 
+      "source_name": "Sog van Eck"
+    }, 
+    {
+      "affiliation": "Lawyer / Prosecutor / Advocate", 
+      "affiliation_group": "Justice System", 
+      "gender": "Male", 
+      "race": "White", 
+      "record_count": 1, 
+      "source_name": "William Booth"
+    }, 
+    {
+      "affiliation": "Judge", 
+      "affiliation_group": "Justice System", 
+      "gender": "Male", 
+      "race": "White", 
+      "record_count": 1, 
+      "source_name": "Willie Wilkens"
+    }, 
+    {
+      "affiliation": "Other municipality in Western Cape", 
+      "affiliation_group": "Local Government", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 4, 
+      "source_name": "Albert Fritz"
+    }, 
+    {
+      "affiliation": "Other municipality in Eastern Cape", 
+      "affiliation_group": "Local Government", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Makaya Bopi"
+    }, 
+    {
+      "affiliation": "City of Cape Town Metropolitican Municipality", 
+      "affiliation_group": "Local Government", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 8, 
+      "source_name": "Richard Bosman"
+    }, 
+    {
+      "affiliation": "Ethekwini Metropolitan Municipality", 
+      "affiliation_group": "Local Government", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "James Nxumalo"
+    }, 
+    {
+      "affiliation": "City of Tshwane", 
+      "affiliation_group": "Local Government", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "Kgosientso Ramokgopa"
+    }, 
+    {
+      "affiliation": "City of Johannesburg", 
+      "affiliation_group": "Local Government", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "Nkosinathi Nkabinde"
+    }, 
+    {
+      "affiliation": "Ekurhuleni Municipality", 
+      "affiliation_group": "Local Government", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "Themba Radebe"
+    }, 
+    {
+      "affiliation": "Department of Performance Monitoring and Evaluation & Administration", 
+      "affiliation_group": "National Government", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 2, 
+      "source_name": "Bashar al-Assad"
+    }, 
+    {
+      "affiliation": "Presidency", 
+      "affiliation_group": "National Government", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "George W. Bush"
+    }, 
+    {
+      "affiliation": "Ministry of Tourism, Environment and Natural Resources", 
+      "affiliation_group": "National Government", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 2, 
+      "source_name": "Hage Geingob"
+    }, 
+    {
+      "affiliation": "Ministry of Agriculture and Cooperatives", 
+      "affiliation_group": "National Government", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Mike Schussler"
+    }, 
+    {
+      "affiliation": "Ministry of Tourism, Environment and Natural Resources", 
+      "affiliation_group": "National Government", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 2, 
+      "source_name": "Nir Barkat"
+    }, 
+    {
+      "affiliation": "Department of Correctional Services", 
+      "affiliation_group": "National Government", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Ofentse Morwane"
+    }, 
+    {
+      "affiliation": "Department of Basic Education", 
+      "affiliation_group": "National Government", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 3, 
+      "source_name": "Paddy Artwell"
+    }, 
+    {
+      "affiliation": "Department of Human Settlements", 
+      "affiliation_group": "National Government", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 3, 
+      "source_name": "Ravi Pillay"
+    }, 
+    {
+      "affiliation": "Ministry of Education", 
+      "affiliation_group": "National Government", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 4, 
+      "source_name": "Refiloe Ramogase"
+    }, 
+    {
+      "affiliation": "Ministry of Agriculture and Cooperatives", 
+      "affiliation_group": "National Government", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Richard Williams"
+    }, 
+    {
+      "affiliation": "Ministry of Agriculture and Cooperatives", 
+      "affiliation_group": "National Government", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Sean Davison"
+    }, 
+    {
+      "affiliation": "Ministry of Tourism, Environment and Natural Resources", 
+      "affiliation_group": "National Government", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 2, 
+      "source_name": "Tolbert Nyenswah"
+    }, 
+    {
+      "affiliation": "Department of Health", 
+      "affiliation_group": "National Government", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "Aaron Mostoaledi"
+    }, 
+    {
+      "affiliation": "Department of Transport", 
+      "affiliation_group": "National Government", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "Alpheus Mlalazi"
+    }, 
+    {
+      "affiliation": "National Government", 
+      "affiliation_group": "National Government", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 16, 
+      "source_name": "Amos Chanda"
+    }, 
+    {
+      "affiliation": "Ministry of Tourism, Environment and Natural Resources", 
+      "affiliation_group": "National Government", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 19, 
+      "source_name": "Barack Obama"
+    }, 
+    {
+      "affiliation": "Department of Basic Education", 
+      "affiliation_group": "National Government", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 4, 
+      "source_name": "Elijah Mhlanga"
+    }, 
+    {
+      "affiliation": "Department of Sport and Recreation", 
+      "affiliation_group": "National Government", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "Fikile Mbalula"
+    }, 
+    {
+      "affiliation": "Department of Rural Development and Land Reform", 
+      "affiliation_group": "National Government", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 5, 
+      "source_name": "Gugile Nkwinti"
+    }, 
+    {
+      "affiliation": "Presidency", 
+      "affiliation_group": "National Government", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 103, 
+      "source_name": "Jacob Zuma"
+    }, 
+    {
+      "affiliation": "Department of Cooperative Governance and Traditional Affairs", 
+      "affiliation_group": "National Government", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "Lechesa Tsenoli"
+    }, 
+    {
+      "affiliation": "Department of Home Affairs", 
+      "affiliation_group": "National Government", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "Mkuseli Apleni"
+    }, 
+    {
+      "affiliation": "Department of Health", 
+      "affiliation_group": "National Government", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "Mondli Mvambi"
+    }, 
+    {
+      "affiliation": "Department of Justice and Constitutional Development", 
+      "affiliation_group": "National Government", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 3, 
+      "source_name": "Mthunzi Mhaga"
+    }, 
+    {
+      "affiliation": "Department of Arts and Culture", 
+      "affiliation_group": "National Government", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 2, 
+      "source_name": "Nathi Mthethwa"
+    }, 
+    {
+      "affiliation": "Department of Police", 
+      "affiliation_group": "National Government", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 6, 
+      "source_name": "Nathi Nhleko"
+    }, 
+    {
+      "affiliation": "Department of Finance", 
+      "affiliation_group": "National Government", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 18, 
+      "source_name": "Nhlanhla Nene"
+    }, 
+    {
+      "affiliation": "Department of Police", 
+      "affiliation_group": "National Government", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 2, 
+      "source_name": "Nkosinathi Nhleko"
+    }, 
+    {
+      "affiliation": "Department of Basic Education", 
+      "affiliation_group": "National Government", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "Panyaza Lesufi"
+    }, 
+    {
+      "affiliation": "Department of Health", 
+      "affiliation_group": "National Government", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "Sizwe Kupelo"
+    }, 
+    {
+      "affiliation": "Department of Water and Environmental  Affairs", 
+      "affiliation_group": "National Government", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "Sputnik Ratau"
+    }, 
+    {
+      "affiliation": "Ministry of Tourism, Environment and Natural Resources", 
+      "affiliation_group": "National Government", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 4, 
+      "source_name": "Thabo Mbeki"
+    }, 
+    {
+      "affiliation": "Department of Transport", 
+      "affiliation_group": "National Government", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "Tshepo Machaea"
+    }, 
+    {
+      "affiliation": "Department of Human Settlements", 
+      "affiliation_group": "National Government", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "Victor Moreriane"
+    }, 
+    {
+      "affiliation": "Presidency", 
+      "affiliation_group": "National Government", 
+      "gender": "Male", 
+      "race": "Indian", 
+      "record_count": 22, 
+      "source_name": "Mac Maharaj"
+    }, 
+    {
+      "affiliation": "Department of Finance", 
+      "affiliation_group": "National Government", 
+      "gender": "Male", 
+      "race": "Indian", 
+      "record_count": 3, 
+      "source_name": "Pravin Gordhan"
+    }, 
+    {
+      "affiliation": "Ministry of Tourism, Environment and Natural Resources", 
+      "affiliation_group": "National Government", 
+      "gender": "Male", 
+      "race": "Other", 
+      "record_count": 2, 
+      "source_name": "Li Keqiang"
+    }, 
+    {
+      "affiliation": "Ministry of Tourism, Environment and Natural Resources", 
+      "affiliation_group": "National Government", 
+      "gender": "Male", 
+      "race": "White", 
+      "record_count": 3, 
+      "source_name": "Andries Nel"
+    }, 
+    {
+      "affiliation": "Department of Basic Education", 
+      "affiliation_group": "National Government", 
+      "gender": "Male", 
+      "race": "White", 
+      "record_count": 1, 
+      "source_name": "Donald Grant"
+    }, 
+    {
+      "affiliation": "Ministry of Tourism, Environment and Natural Resources", 
+      "affiliation_group": "National Government", 
+      "gender": "Male", 
+      "race": "White", 
+      "record_count": 2, 
+      "source_name": "Joe Biden"
+    }, 
+    {
+      "affiliation": "National Government", 
+      "affiliation_group": "National Government", 
+      "gender": "Male", 
+      "race": "White", 
+      "record_count": 2, 
+      "source_name": "John Kerry"
+    }, 
+    {
+      "affiliation": "Department of Trade and Industry", 
+      "affiliation_group": "National Government", 
+      "gender": "Male", 
+      "race": "White", 
+      "record_count": 4, 
+      "source_name": "Rob Davies"
+    }, 
+    {
+      "affiliation": "Ministry of Agriculture and Cooperatives", 
+      "affiliation_group": "National Government", 
+      "gender": "Male", 
+      "race": "White", 
+      "record_count": 2, 
+      "source_name": "Sean Sullivan"
+    }, 
+    {
+      "affiliation": "NGOs / CBOs / FBOs", 
+      "affiliation_group": "NGOs / CBOs / FBOs", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Javu Baloyi"
+    }, 
+    {
+      "affiliation": "NGOs / CBOs / FBOs", 
+      "affiliation_group": "NGOs / CBOs / FBOs", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Mienke Steytler"
+    }, 
+    {
+      "affiliation": "NGOs / CBOs / FBOs", 
+      "affiliation_group": "NGOs / CBOs / FBOs", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 2, 
+      "source_name": "Murray Hunter"
+    }, 
+    {
+      "affiliation": "Childline", 
+      "affiliation_group": "NGOs / CBOs / FBOs", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "Dumisile Nala"
+    }, 
+    {
+      "affiliation": "NGOs / CBOs / FBOs", 
+      "affiliation_group": "NGOs / CBOs / FBOs", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "Trevor Mulaudzi"
+    }, 
+    {
+      "affiliation": "NGOs / CBOs / FBOs", 
+      "affiliation_group": "NGOs / CBOs / FBOs", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "Vusi Mona"
+    }, 
+    {
+      "affiliation": "NGOs / CBOs / FBOs", 
+      "affiliation_group": "NGOs / CBOs / FBOs", 
+      "gender": "Male", 
+      "race": "Indian", 
+      "record_count": 1, 
+      "source_name": "Jay Naidoo"
+    }, 
+    {
+      "affiliation": "Corruption Watch", 
+      "affiliation_group": "NGOs / CBOs / FBOs", 
+      "gender": "Male", 
+      "race": "White", 
+      "record_count": 1, 
+      "source_name": "David Lewis"
+    }, 
+    {
+      "affiliation": "NGOs / CBOs / FBOs", 
+      "affiliation_group": "NGOs / CBOs / FBOs", 
+      "gender": "Male", 
+      "race": "White", 
+      "record_count": 1, 
+      "source_name": "Graig Lambinon"
+    }, 
+    {
+      "affiliation": "Childline", 
+      "affiliation_group": "NGOs / CBOs / FBOs", 
+      "gender": "Male", 
+      "race": "White", 
+      "record_count": 1, 
+      "source_name": "Joan van Niekerk"
+    }, 
+    {
+      "affiliation": "Agang SA", 
+      "affiliation_group": "Political Parties", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Andries Tlouamma"
+    }, 
+    {
+      "affiliation": "Democratic Alliance/Demokratiese Alliansie - DA", 
+      "affiliation_group": "Political Parties", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 3, 
+      "source_name": "Anthony Benadie"
+    }, 
+    {
+      "affiliation": "Democratic Alliance/Demokratiese Alliansie - DA", 
+      "affiliation_group": "Political Parties", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 3, 
+      "source_name": "Anton Bredell"
+    }, 
+    {
+      "affiliation": "Inkatha Freedom Party - IFP", 
+      "affiliation_group": "Political Parties", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 8, 
+      "source_name": "Blessed Gwala"
+    }, 
+    {
+      "affiliation": "African National Congress - ANC", 
+      "affiliation_group": "Political Parties", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 15, 
+      "source_name": "Brian Dube"
+    }, 
+    {
+      "affiliation": "Democratic Alliance/Demokratiese Alliansie - DA", 
+      "affiliation_group": "Political Parties", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 2, 
+      "source_name": "Cobus Grobler"
+    }, 
+    {
+      "affiliation": "Democratic Alliance/Demokratiese Alliansie - DA", 
+      "affiliation_group": "Political Parties", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 4, 
+      "source_name": "David Maynier"
+    }, 
+    {
+      "affiliation": "African National Congress - ANC", 
+      "affiliation_group": "Political Parties", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Ebrahim Rasool"
+    }, 
+    {
+      "affiliation": "African National Congress - ANC", 
+      "affiliation_group": "Political Parties", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Leonard Ramatlakane"
+    }, 
+    {
+      "affiliation": "African National Congress - ANC", 
+      "affiliation_group": "Political Parties", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Mhlongo"
+    }, 
+    {
+      "affiliation": "Agang SA", 
+      "affiliation_group": "Political Parties", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 2, 
+      "source_name": "Mike Tshishonga"
+    }, 
+    {
+      "affiliation": "Inkatha Freedom Party - IFP", 
+      "affiliation_group": "Political Parties", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Mkhuleko Hlengwa"
+    }, 
+    {
+      "affiliation": "United Democratic Movement - UDM", 
+      "affiliation_group": "Political Parties", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Nqabayomzi Kwankwa"
+    }, 
+    {
+      "affiliation": "African Christian Democratic Party - ACDP", 
+      "affiliation_group": "Political Parties", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Steve Swart"
+    }, 
+    {
+      "affiliation": "Democratic Alliance/Demokratiese Alliansie - DA", 
+      "affiliation_group": "Political Parties", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 16, 
+      "source_name": "Steven Budlender"
+    }, 
+    {
+      "affiliation": "African National Congress - ANC", 
+      "affiliation_group": "Political Parties", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Xola Pakati"
+    }, 
+    {
+      "affiliation": "Economic Freedom Fighters - EFF", 
+      "affiliation_group": "Political Parties", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 11, 
+      "source_name": "Andile Mngxitama"
+    }, 
+    {
+      "affiliation": "South African Communist Party - SACP", 
+      "affiliation_group": "Political Parties", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 15, 
+      "source_name": "Blade Nzimande"
+    }, 
+    {
+      "affiliation": "African National Congress - ANC", 
+      "affiliation_group": "Political Parties", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "Bongani Tembe"
+    }, 
+    {
+      "affiliation": "Patriotic Front (PF)", 
+      "affiliation_group": "Political Parties", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 6, 
+      "source_name": "Edgar Lungu"
+    }, 
+    {
+      "affiliation": "African National Congress - ANC", 
+      "affiliation_group": "Political Parties", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 3, 
+      "source_name": "Enoch Godongwana"
+    }, 
+    {
+      "affiliation": "African National Congress - ANC", 
+      "affiliation_group": "Political Parties", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "Fezile Calana"
+    }, 
+    {
+      "affiliation": "Economic Freedom Fighters - EFF", 
+      "affiliation_group": "Political Parties", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 2, 
+      "source_name": "Floyd Shivambu"
+    }, 
+    {
+      "affiliation": "African National Congress - ANC", 
+      "affiliation_group": "Political Parties", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 3, 
+      "source_name": "Gwede Mantashe"
+    }, 
+    {
+      "affiliation": "African National Congress - ANC", 
+      "affiliation_group": "Political Parties", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "John Block"
+    }, 
+    {
+      "affiliation": "Economic Freedom Fighters - EFF", 
+      "affiliation_group": "Political Parties", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 36, 
+      "source_name": "Julius Malema"
+    }, 
+    {
+      "affiliation": "Inkatha Freedom Party - IFP", 
+      "affiliation_group": "Political Parties", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "Mangosuthu Buthelezi"
+    }, 
+    {
+      "affiliation": "African National Congress - ANC", 
+      "affiliation_group": "Political Parties", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 3, 
+      "source_name": "Mathews Phosa"
+    }, 
+    {
+      "affiliation": "African National Congress - ANC", 
+      "affiliation_group": "Political Parties", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "Mathole Matshekga"
+    }, 
+    {
+      "affiliation": "Economic Freedom Fighters - EFF", 
+      "affiliation_group": "Political Parties", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 30, 
+      "source_name": "Mbuyiseni Ndlozi"
+    }, 
+    {
+      "affiliation": "Patriotic Front (PF)", 
+      "affiliation_group": "Political Parties", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 3, 
+      "source_name": "Michael Sata"
+    }, 
+    {
+      "affiliation": "Democratic Alliance/Demokratiese Alliansie - DA", 
+      "affiliation_group": "Political Parties", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 13, 
+      "source_name": "Mmusi Maimane"
+    }, 
+    {
+      "affiliation": "African National Congress - ANC", 
+      "affiliation_group": "Political Parties", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 5, 
+      "source_name": "Moloto Mothapo"
+    }, 
+    {
+      "affiliation": "Lesotho Congress for Democracy (LCD)", 
+      "affiliation_group": "Political Parties", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 4, 
+      "source_name": "Mothejoa Metsing"
+    }, 
+    {
+      "affiliation": "Economic Freedom Fighters - EFF", 
+      "affiliation_group": "Political Parties", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 17, 
+      "source_name": "Mpho Ramakatsa"
+    }, 
+    {
+      "affiliation": "African National Congress - ANC", 
+      "affiliation_group": "Political Parties", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 2, 
+      "source_name": "Mzwandile Masina"
+    }, 
+    {
+      "affiliation": "Democratic Congress (DC)", 
+      "affiliation_group": "Political Parties", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "Pakalitha Mosisili"
+    }, 
+    {
+      "affiliation": "Democratic Alliance/Demokratiese Alliansie - DA", 
+      "affiliation_group": "Political Parties", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 2, 
+      "source_name": "Sizwe Mchunu"
+    }, 
+    {
+      "affiliation": "African National Congress - ANC", 
+      "affiliation_group": "Political Parties", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "Songezo Mjongile"
+    }, 
+    {
+      "affiliation": "African National Congress - ANC", 
+      "affiliation_group": "Political Parties", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 2, 
+      "source_name": "Steve Biko"
+    }, 
+    {
+      "affiliation": "African National Congress - ANC", 
+      "affiliation_group": "Political Parties", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 2, 
+      "source_name": "Stone Sizani"
+    }, 
+    {
+      "affiliation": "Other political party not listed", 
+      "affiliation_group": "Political Parties", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 2, 
+      "source_name": "Themba Godi"
+    }, 
+    {
+      "affiliation": "Economic Freedom Fighters - EFF", 
+      "affiliation_group": "Political Parties", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "Themba Wele"
+    }, 
+    {
+      "affiliation": "All Basotho Convention (ABC)", 
+      "affiliation_group": "Political Parties", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "Thomas Thabane"
+    }, 
+    {
+      "affiliation": "African National Congress - ANC", 
+      "affiliation_group": "Political Parties", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "Zizi Kodwa"
+    }, 
+    {
+      "affiliation": "Democratic Alliance/Demokratiese Alliansie - DA", 
+      "affiliation_group": "Political Parties", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "Zwakele Mncwango"
+    }, 
+    {
+      "affiliation": "African National Congress - ANC", 
+      "affiliation_group": "Political Parties", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "Zweli Mkhize"
+    }, 
+    {
+      "affiliation": "Congress of the People - Cope", 
+      "affiliation_group": "Political Parties", 
+      "gender": "Male", 
+      "race": "Coloured", 
+      "record_count": 8, 
+      "source_name": "Dennis Bloem"
+    }, 
+    {
+      "affiliation": "Democratic Alliance/Demokratiese Alliansie - DA", 
+      "affiliation_group": "Political Parties", 
+      "gender": "Male", 
+      "race": "Coloured", 
+      "record_count": 3, 
+      "source_name": "John Moodey"
+    }, 
+    {
+      "affiliation": "African National Congress - ANC", 
+      "affiliation_group": "Political Parties", 
+      "gender": "Male", 
+      "race": "Coloured", 
+      "record_count": 3, 
+      "source_name": "Marius Fransman"
+    }, 
+    {
+      "affiliation": "Economic Freedom Fighters - EFF", 
+      "affiliation_group": "Political Parties", 
+      "gender": "Male", 
+      "race": "Coloured", 
+      "record_count": 3, 
+      "source_name": "Nazier Paulsen"
+    }, 
+    {
+      "affiliation": "Democratic Alliance/Demokratiese Alliansie - DA", 
+      "affiliation_group": "Political Parties", 
+      "gender": "Male", 
+      "race": "White", 
+      "record_count": 1, 
+      "source_name": "Bobby Stevenson"
+    }, 
+    {
+      "affiliation": "Vryheidsfront Plus / Freedom Front Plus - VF+ / FF Plus", 
+      "affiliation_group": "Political Parties", 
+      "gender": "Male", 
+      "race": "White", 
+      "record_count": 3, 
+      "source_name": "Corn\u00e9 Mulder"
+    }, 
+    {
+      "affiliation": "Democratic Alliance/Demokratiese Alliansie - DA", 
+      "affiliation_group": "Political Parties", 
+      "gender": "Male", 
+      "race": "White", 
+      "record_count": 9, 
+      "source_name": "Dan Plato"
+    }, 
+    {
+      "affiliation": "African National Congress - ANC", 
+      "affiliation_group": "Political Parties", 
+      "gender": "Male", 
+      "race": "White", 
+      "record_count": 1, 
+      "source_name": "Derek Hanekom"
+    }, 
+    {
+      "affiliation": "Democratic Alliance/Demokratiese Alliansie - DA", 
+      "affiliation_group": "Political Parties", 
+      "gender": "Male", 
+      "race": "White", 
+      "record_count": 4, 
+      "source_name": "Gavin Davis"
+    }, 
+    {
+      "affiliation": "Democratic Alliance/Demokratiese Alliansie - DA", 
+      "affiliation_group": "Political Parties", 
+      "gender": "Male", 
+      "race": "White", 
+      "record_count": 4, 
+      "source_name": "Ivan Meyer"
+    }, 
+    {
+      "affiliation": "Democratic Alliance/Demokratiese Alliansie - DA", 
+      "affiliation_group": "Political Parties", 
+      "gender": "Male", 
+      "race": "White", 
+      "record_count": 7, 
+      "source_name": "Jack Bloom"
+    }, 
+    {
+      "affiliation": "Democratic Alliance/Demokratiese Alliansie - DA", 
+      "affiliation_group": "Political Parties", 
+      "gender": "Male", 
+      "race": "White", 
+      "record_count": 2, 
+      "source_name": "James Selfe"
+    }, 
+    {
+      "affiliation": "South African Communist Party - SACP", 
+      "affiliation_group": "Political Parties", 
+      "gender": "Male", 
+      "race": "White", 
+      "record_count": 4, 
+      "source_name": "Jeremy Cronin"
+    }, 
+    {
+      "affiliation": "Entertainer - dancer, actor, singer, artist", 
+      "affiliation_group": "Professionals", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Alan Webster"
+    }, 
+    {
+      "affiliation": "Media - editor, jourmalist, dj, presenter, critic, public relations", 
+      "affiliation_group": "Professionals", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Angelo Fick"
+    }, 
+    {
+      "affiliation": "Media - editor, jourmalist, dj, presenter, critic, public relations", 
+      "affiliation_group": "Professionals", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 2, 
+      "source_name": "Arthur Goldstuck"
+    }, 
+    {
+      "affiliation": "Prominent people/ celebrities", 
+      "affiliation_group": "Professionals", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Arthur Mafokate"
+    }, 
+    {
+      "affiliation": "Royalty - king, queen, prince", 
+      "affiliation_group": "Professionals", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 8, 
+      "source_name": "Daludumo Mtirara"
+    }, 
+    {
+      "affiliation": "Media - editor, jourmalist, dj, presenter, critic, public relations", 
+      "affiliation_group": "Professionals", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 2, 
+      "source_name": "Daneel Knoetze"
+    }, 
+    {
+      "affiliation": "Religion - priest, traditionalist, all faiths", 
+      "affiliation_group": "Professionals", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 2, 
+      "source_name": "Federico Lombardi"
+    }, 
+    {
+      "affiliation": "Sports - sports bodies/officials, athlete, golfers, coaches, soccer players", 
+      "affiliation_group": "Professionals", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 2, 
+      "source_name": "Geoff Toyana"
+    }, 
+    {
+      "affiliation": "Media - editor, jourmalist, dj, presenter, critic, public relations", 
+      "affiliation_group": "Professionals", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Nickolaus Bauer"
+    }, 
+    {
+      "affiliation": "Entertainer - dancer, actor, singer, artist", 
+      "affiliation_group": "Professionals", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 2, 
+      "source_name": "Pharrell Williams"
+    }, 
+    {
+      "affiliation": "Emergency services - ambulance, firefighter", 
+      "affiliation_group": "Professionals", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 12, 
+      "source_name": "Robert McKenzie"
+    }, 
+    {
+      "affiliation": "Entertainer - dancer, actor, singer, artist", 
+      "affiliation_group": "Professionals", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 2, 
+      "source_name": "Robin Thicke"
+    }, 
+    {
+      "affiliation": "Sports - sports bodies/officials, athlete, golfers, coaches, soccer players", 
+      "affiliation_group": "Professionals", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Roger de S\u00e1"
+    }, 
+    {
+      "affiliation": "Entertainer - dancer, actor, singer, artist", 
+      "affiliation_group": "Professionals", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Sbusiso Leope"
+    }, 
+    {
+      "affiliation": "Criminal - convicted criminal, suspected criminal", 
+      "affiliation_group": "Professionals", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Silvio Berlusconi"
+    }, 
+    {
+      "affiliation": "Emergency services - ambulance, firefighter", 
+      "affiliation_group": "Professionals", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 9, 
+      "source_name": "Theo Layne"
+    }, 
+    {
+      "affiliation": "Media - editor, jourmalist, dj, presenter, critic, public relations", 
+      "affiliation_group": "Professionals", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 19, 
+      "source_name": "Vuyo Mvoko"
+    }, 
+    {
+      "affiliation": "Health - doctor, nurse, psychologist, lab technician", 
+      "affiliation_group": "Professionals", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 14, 
+      "source_name": "Aaron Motsoaledi"
+    }, 
+    {
+      "affiliation": "Criminal - convicted criminal, suspected criminal", 
+      "affiliation_group": "Professionals", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 7, 
+      "source_name": "Abubakar Shekau"
+    }, 
+    {
+      "affiliation": "Sports - sports bodies/officials, athlete, golfers, coaches, soccer players", 
+      "affiliation_group": "Professionals", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "Ace Ncobo"
+    }, 
+    {
+      "affiliation": "Religion - priest, traditionalist, all faiths", 
+      "affiliation_group": "Professionals", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 2, 
+      "source_name": "Annanius Ralekgolela"
+    }, 
+    {
+      "affiliation": "Entertainer - dancer, actor, singer, artist", 
+      "affiliation_group": "Professionals", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "Da Les"
+    }, 
+    {
+      "affiliation": "Prominent people/ celebrities", 
+      "affiliation_group": "Professionals", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "Desmond Tutu"
+    }, 
+    {
+      "affiliation": "Entertainer - dancer, actor, singer, artist", 
+      "affiliation_group": "Professionals", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "DJ SBU"
+    }, 
+    {
+      "affiliation": "Health - doctor, nurse, psychologist, lab technician", 
+      "affiliation_group": "Professionals", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 8, 
+      "source_name": "Eddie Mhlanga"
+    }, 
+    {
+      "affiliation": "Royalty - king, queen, prince", 
+      "affiliation_group": "Professionals", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "Goodwill Zwelithini"
+    }, 
+    {
+      "affiliation": "Media - editor, jourmalist, dj, presenter, critic, public relations", 
+      "affiliation_group": "Professionals", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 2, 
+      "source_name": "Hlaudi Motsoeneng"
+    }, 
+    {
+      "affiliation": "Sports - sports bodies/officials, athlete, golfers, coaches, soccer players", 
+      "affiliation_group": "Professionals", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "Irvin Khoza"
+    }, 
+    {
+      "affiliation": "Media - editor, jourmalist, dj, presenter, critic, public relations", 
+      "affiliation_group": "Professionals", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "Kaizer Kganyago"
+    }, 
+    {
+      "affiliation": "Royalty - king, queen, prince", 
+      "affiliation_group": "Professionals", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "King"
+    }, 
+    {
+      "affiliation": "Education - teacher, principal", 
+      "affiliation_group": "Professionals", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "Mugwena Maluleke"
+    }, 
+    {
+      "affiliation": "Royalty - king, queen, prince", 
+      "affiliation_group": "Professionals", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 4, 
+      "source_name": "Ngangomhlaba Matanzima"
+    }, 
+    {
+      "affiliation": "Entrepreneur - small and micro businessperson", 
+      "affiliation_group": "Professionals", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 2, 
+      "source_name": "Sandile Zungu"
+    }, 
+    {
+      "affiliation": "Sports - sports bodies/officials, athlete, golfers, coaches, soccer players", 
+      "affiliation_group": "Professionals", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 2, 
+      "source_name": "Senzo Meyiwa"
+    }, 
+    {
+      "affiliation": "Sports - sports bodies/officials, athlete, golfers, coaches, soccer players", 
+      "affiliation_group": "Professionals", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "Simphiwe Tshabalala"
+    }, 
+    {
+      "affiliation": "Community Leader", 
+      "affiliation_group": "Professionals", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "Thabang Wesi"
+    }, 
+    {
+      "affiliation": "Media - editor, jourmalist, dj, presenter, critic, public relations", 
+      "affiliation_group": "Professionals", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "Tim Modise"
+    }, 
+    {
+      "affiliation": "Religion - priest, traditionalist, all faiths", 
+      "affiliation_group": "Professionals", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "Traditional Leaders"
+    }, 
+    {
+      "affiliation": "Student - scholar, pupil", 
+      "affiliation_group": "Professionals", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "Tshepo"
+    }, 
+    {
+      "affiliation": "Entrepreneur - small and micro businessperson", 
+      "affiliation_group": "Professionals", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "William Mabasa"
+    }, 
+    {
+      "affiliation": "Community Leader", 
+      "affiliation_group": "Professionals", 
+      "gender": "Male", 
+      "race": "Coloured", 
+      "record_count": 2, 
+      "source_name": "Abie Isaacs"
+    }, 
+    {
+      "affiliation": "Sports - sports bodies/officials, athlete, golfers, coaches, soccer players", 
+      "affiliation_group": "Professionals", 
+      "gender": "Male", 
+      "race": "Coloured", 
+      "record_count": 1, 
+      "source_name": "Danny Jordaan"
+    }, 
+    {
+      "affiliation": "Criminal - convicted criminal, suspected criminal", 
+      "affiliation_group": "Professionals", 
+      "gender": "Male", 
+      "race": "Coloured", 
+      "record_count": 21, 
+      "source_name": "Keenan Mokwena"
+    }, 
+    {
+      "affiliation": "Sports - sports bodies/officials, athlete, golfers, coaches, soccer players", 
+      "affiliation_group": "Professionals", 
+      "gender": "Male", 
+      "race": "Coloured", 
+      "record_count": 1, 
+      "source_name": "Vernon Philander"
+    }, 
+    {
+      "affiliation": "Emergency services - ambulance, firefighter", 
+      "affiliation_group": "Professionals", 
+      "gender": "Male", 
+      "race": "Other", 
+      "record_count": 1, 
+      "source_name": "Ashraf al-Qidra"
+    }, 
+    {
+      "affiliation": "Sports - sports bodies/officials, athlete, golfers, coaches, soccer players", 
+      "affiliation_group": "Professionals", 
+      "gender": "Male", 
+      "race": "Other", 
+      "record_count": 2, 
+      "source_name": "Ryan Giggs"
+    }, 
+    {
+      "affiliation": "Emergency services - ambulance, firefighter", 
+      "affiliation_group": "Professionals", 
+      "gender": "Male", 
+      "race": "White", 
+      "record_count": 16, 
+      "source_name": "Chris Botha"
+    }, 
+    {
+      "affiliation": "Entertainer - dancer, actor, singer, artist", 
+      "affiliation_group": "Professionals", 
+      "gender": "Male", 
+      "race": "White", 
+      "record_count": 1, 
+      "source_name": "Frantz Fanon"
+    }, 
+    {
+      "affiliation": "Emergency services - ambulance, firefighter", 
+      "affiliation_group": "Professionals", 
+      "gender": "Male", 
+      "race": "White", 
+      "record_count": 2, 
+      "source_name": "Garrith Jamieson"
+    }, 
+    {
+      "affiliation": "Prominent people/ celebrities", 
+      "affiliation_group": "Professionals", 
+      "gender": "Male", 
+      "race": "White", 
+      "record_count": 7, 
+      "source_name": "Howard Dembovsky"
+    }, 
+    {
+      "affiliation": "Media - editor, jourmalist, dj, presenter, critic, public relations", 
+      "affiliation_group": "Professionals", 
+      "gender": "Male", 
+      "race": "White", 
+      "record_count": 4, 
+      "source_name": "Jan Gerber"
+    }, 
+    {
+      "affiliation": "Media - editor, jourmalist, dj, presenter, critic, public relations", 
+      "affiliation_group": "Professionals", 
+      "gender": "Male", 
+      "race": "White", 
+      "record_count": 1, 
+      "source_name": "Mark Zuckerberg"
+    }, 
+    {
+      "affiliation": "Criminal - convicted criminal, suspected criminal", 
+      "affiliation_group": "Professionals", 
+      "gender": "Male", 
+      "race": "White", 
+      "record_count": 2, 
+      "source_name": "Oscar Pistorius"
+    }, 
+    {
+      "affiliation": "Religion - priest, traditionalist, all faiths", 
+      "affiliation_group": "Professionals", 
+      "gender": "Male", 
+      "race": "White", 
+      "record_count": 1, 
+      "source_name": "Pope Francis"
+    }, 
+    {
+      "affiliation": "Emergency services - ambulance, firefighter", 
+      "affiliation_group": "Professionals", 
+      "gender": "Male", 
+      "race": "White", 
+      "record_count": 3, 
+      "source_name": "Robert Daniels"
+    }, 
+    {
+      "affiliation": "Emergency services - ambulance, firefighter", 
+      "affiliation_group": "Professionals", 
+      "gender": "Male", 
+      "race": "White", 
+      "record_count": 8, 
+      "source_name": "Russel Meiring"
+    }, 
+    {
+      "affiliation": "Emergency services - ambulance, firefighter", 
+      "affiliation_group": "Professionals", 
+      "gender": "Male", 
+      "race": "White", 
+      "record_count": 6, 
+      "source_name": "Santi Steinmann"
+    }, 
+    {
+      "affiliation": "Media - editor, jourmalist, dj, presenter, critic, public relations", 
+      "affiliation_group": "Professionals", 
+      "gender": "Male", 
+      "race": "White", 
+      "record_count": 1, 
+      "source_name": "Stephen Grootes"
+    }, 
+    {
+      "affiliation": "Western Cape Provincial Government", 
+      "affiliation_group": "Provincial Government", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Al- Ameen Kafaar"
+    }, 
+    {
+      "affiliation": "Western Cape Provincial Government", 
+      "affiliation_group": "Provincial Government", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Enver Duminy"
+    }, 
+    {
+      "affiliation": "Mpumalanga Provincial Government", 
+      "affiliation_group": "Provincial Government", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Moeti Mmusi"
+    }, 
+    {
+      "affiliation": "Eastern Cape Provincial Government", 
+      "affiliation_group": "Provincial Government", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Ncedo Kumbaca"
+    }, 
+    {
+      "affiliation": "Northern Cape Provincial Government", 
+      "affiliation_group": "Provincial Government", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 19, 
+      "source_name": "Sydney Stander"
+    }, 
+    {
+      "affiliation": "Mpumalanga Provincial Government", 
+      "affiliation_group": "Provincial Government", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 7, 
+      "source_name": "David Mabuza"
+    }, 
+    {
+      "affiliation": "Gauteng Provincial Government", 
+      "affiliation_group": "Provincial Government", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 14, 
+      "source_name": "David Makhura"
+    }, 
+    {
+      "affiliation": "Limpopo Provincial Government", 
+      "affiliation_group": "Provincial Government", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "Eugene Watson"
+    }, 
+    {
+      "affiliation": "Gauteng Provincial Government", 
+      "affiliation_group": "Provincial Government", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 19, 
+      "source_name": "Jacob Mamabolo"
+    }, 
+    {
+      "affiliation": "Eastern Cape Provincial Government", 
+      "affiliation_group": "Provincial Government", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "Loyiso Pulumani"
+    }, 
+    {
+      "affiliation": "Gauteng Provincial Government", 
+      "affiliation_group": "Provincial Government", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "Parks Tau"
+    }, 
+    {
+      "affiliation": "Eastern Cape Provincial Government", 
+      "affiliation_group": "Provincial Government", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "Phumulo Masualle"
+    }, 
+    {
+      "affiliation": "Gauteng Provincial Government", 
+      "affiliation_group": "Provincial Government", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "Prince Hamnca"
+    }, 
+    {
+      "affiliation": "KwaZulu-Natal Provincial Government", 
+      "affiliation_group": "Provincial Government", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 2, 
+      "source_name": "Senzo Mchunu"
+    }, 
+    {
+      "affiliation": "North West Provincial Government", 
+      "affiliation_group": "Provincial Government", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 2, 
+      "source_name": "Supra Mahumapelo"
+    }, 
+    {
+      "affiliation": "KwaZulu-Natal Provincial Government", 
+      "affiliation_group": "Provincial Government", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 3, 
+      "source_name": "Willies Mchunu"
+    }, 
+    {
+      "affiliation": "Western Cape Provincial Government", 
+      "affiliation_group": "Provincial Government", 
+      "gender": "Male", 
+      "race": "White", 
+      "record_count": 4, 
+      "source_name": "Alan Winde"
+    }, 
+    {
+      "affiliation": "Western Cape Provincial Government", 
+      "affiliation_group": "Provincial Government", 
+      "gender": "Male", 
+      "race": "White", 
+      "record_count": 3, 
+      "source_name": "JP Smith"
+    }, 
+    {
+      "affiliation": "Western Cape Provincial Government", 
+      "affiliation_group": "Provincial Government", 
+      "gender": "Male", 
+      "race": "White", 
+      "record_count": 7, 
+      "source_name": "Paddy Attwell"
+    }, 
+    {
+      "affiliation": "Other union not listed", 
+      "affiliation_group": "Unions", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 1, 
+      "source_name": "Senzeni Zokwana"
+    }, 
+    {
+      "affiliation": "Other union not listed", 
+      "affiliation_group": "Unions", 
+      "gender": "Male", 
+      "race": null, 
+      "record_count": 3, 
+      "source_name": "Sydwell Dokolwana"
+    }, 
+    {
+      "affiliation": "COSATU", 
+      "affiliation_group": "Unions", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 3, 
+      "source_name": "Bheki Ntshalintshali"
+    }, 
+    {
+      "affiliation": "NUMSA", 
+      "affiliation_group": "Unions", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 15, 
+      "source_name": "Frans Baleni"
+    }, 
+    {
+      "affiliation": "NUMSA", 
+      "affiliation_group": "Unions", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "Irvin Jim"
+    }, 
+    {
+      "affiliation": "Other union not listed", 
+      "affiliation_group": "Unions", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "Jimmy Gama"
+    }, 
+    {
+      "affiliation": "Other union not listed", 
+      "affiliation_group": "Unions", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "Joseph Mathunjwa"
+    }, 
+    {
+      "affiliation": "Other union not listed", 
+      "affiliation_group": "Unions", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "Katishi Masemola"
+    }, 
+    {
+      "affiliation": "Other union not listed", 
+      "affiliation_group": "Unions", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "Khulekani Skosana"
+    }, 
+    {
+      "affiliation": "Other union not listed", 
+      "affiliation_group": "Unions", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 2, 
+      "source_name": "Livhuwani Mammburu"
+    }, 
+    {
+      "affiliation": "SADTU", 
+      "affiliation_group": "Unions", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "Mungwena Maluleke"
+    }, 
+    {
+      "affiliation": "SADTU", 
+      "affiliation_group": "Unions", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 1, 
+      "source_name": "Nkosana Dolopi"
+    }, 
+    {
+      "affiliation": "COSATU", 
+      "affiliation_group": "Unions", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 6, 
+      "source_name": "Sdumo Dlamini"
+    }, 
+    {
+      "affiliation": "COSATU", 
+      "affiliation_group": "Unions", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 2, 
+      "source_name": "Solly Phetoe"
+    }, 
+    {
+      "affiliation": "COSATU", 
+      "affiliation_group": "Unions", 
+      "gender": "Male", 
+      "race": "Black", 
+      "record_count": 11, 
+      "source_name": "Zwelinzima Vavi"
+    }, 
+    {
+      "affiliation": "COSATU", 
+      "affiliation_group": "Unions", 
+      "gender": "Male", 
+      "race": "White", 
+      "record_count": 1, 
+      "source_name": "Patrick Craven"
+    }, 
+    {
+      "affiliation": "COSATU", 
+      "affiliation_group": "Unions", 
+      "gender": "Male", 
+      "race": "White", 
+      "record_count": 2, 
+      "source_name": "Tony Ehrenreich"
+    }, 
+    {
+      "affiliation": "Foreign Police Service / Interpol", 
+      "affiliation_group": "Justice System", 
+      "gender": "Other: Transgender, Transsexual", 
+      "race": "White", 
+      "record_count": 2, 
+      "source_name": "Dilma Rousseff"
+    }
+  ], 
+  "date-end": "2015/03/13 23:59:59", 
+  "date-start": "2015/03/06 00:00:00"
+}

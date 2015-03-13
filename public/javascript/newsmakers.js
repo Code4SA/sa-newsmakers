@@ -1,4 +1,7 @@
 $(function() {
+	
+	var url = "https://mma-dexter.code4sa.org/api/feeds/sources/people?start_date=2015-03-10&end_date=2015-03-13"; //Live
+	var url = "/api.json"; //Testing
 
 	Handlebars.registerHelper('since', function(date) {
 		date = Handlebars.Utils.escapeExpression(date);
@@ -23,20 +26,16 @@ $(function() {
 		.sort(null)
 		.size([width, height])
 		.padding(3)
-		.value(function(d) { return d.size })
+		.value(function(d) { return d.record_count })
 
 	var svg = d3.select("#content").append("svg")
 		.attr("width", "100%")
 		.attr("height", height)
 		.attr("class", "bubble");
 
-	d3.csv("/dexter.csv", function(err, data) {
-		var n = d3.nest()
-			.key(function(d) { return d.source_source_name })
-			.entries(data);
-		var m = n.map(function(d) {
-			return Source(d)
-		}).filter(function(d) { return d.size > 0; });
+	
+	d3.json("/api.json", function(err, data) {
+		var m = data.cells;
 
 		var genders = [];
 		var races = [];
@@ -44,19 +43,24 @@ $(function() {
 		var affiliation_groups = [];
 
 		m.forEach(function(d) {
-			genders.push(d.docs[0].source_gender);
-			races.push(d.docs[0].source_race);
-			affiliations.push(d.docs[0].source_affiliation);
-			affiliation_groups.push(d.docs[0].source_affiliation_group);
+			if (d.gender != null)
+				genders.push(d.gender);
+			if (d.race != null)
+				races.push(d.race);
+			if (d.affiliation != null)
+				affiliations.push(d.affiliation);
+			if (d.affiliation != null)
+				affiliation_groups.push(d.affiliation_group);
+			// m.size = m.record_count;
 		});
-		genders = d3.set(genders).values();
-		genders.unshift("All")
+		genders = d3.set(genders).values().sort();
+		genders.unshift("All");
 		races = d3.set(races).values();
-		races.unshift("All")
+		races.unshift("All");
 		affiliations = d3.set(affiliations).values();
-		affiliations.unshift("All")
+		affiliations.unshift("All");
 		affiliation_groups = d3.set(affiliation_groups).values();
-		affiliation_groups.unshift("All")
+		affiliation_groups.unshift("All");
 		var filters = [
 			{ name: "Gender", key: "gender", values: genders, value: "All" },
 			{ name: "Race", key: "race", values: races, value: "All" },
@@ -64,7 +68,6 @@ $(function() {
 			{ name: "Group", key: "affiliation_group", values: affiliation_groups, value: "All" },
 		];
 		var filter_vals = { gender: "All", race: "All", group: "All" };
-		console.log(m);
 
 		var tooltip = d3.select("body").append("div")
 			.attr("class", "tooltip")
@@ -79,42 +82,50 @@ $(function() {
 			;
 		node.append("circle")
 			.attr("r", function(d) { return d.r; })
-			.style("fill", function(d) { return color(d.docs[0].source_affiliation_group_code); })
+			.style("fill", function(d) { return color(affiliation_groups.indexOf(d.affiliation_group)); })
 			.attr("data-name", function(d) { return d.name })
-			.on("click", function(d) {
-				var name = d.name;
-				var docs = d.docs;
-				var race = d.race;
-				var gender = d.gender;
-				var affiliation = d.affiliation;
-				var affiliation_group = d.affiliation_group;
-				var publications = d3.select("#publications")
-					.html("");
-				publications.append("h3").text(function(d) { return name });
-				publications.append("p").append("strong").text(function(d) { return race + " " + gender + ( (affiliation) ? " - " + affiliation : "" ) });
-				// publications.append("p").text(function(d) { return affiliation });
-				var article = publications.selectAll("div")
-					.data(docs)
-				.enter()
-					.append("div")
-					.classed("publication", true);
-				article.append("span")
-					.text(function(d) { return date_format(new Date(d.doc_published_date)) + " - " });
-				article.append("a")
-					.attr("href", function(d) { return d.doc_article_url })
-					.text(function(d) { return d.doc_title })
-					;
-				article.append("span")
-					.text(function(d) { return " (" + d.doc_author_name + ", " + d.doc_medium + ")"})
+			// .on("click", function(d) {
+			// 	var name = d.name;
+			// 	var docs = d.docs;
+			// 	var race = d.race;
+			// 	var gender = d.gender;
+			// 	var affiliation = d.affiliation;
+			// 	var affiliation_group = d.affiliation_group;
+			// 	var publications = d3.select("#publications")
+			// 		.html("");
+			// 	publications.append("h3").text(function(d) { return name });
+			// 	publications.append("p").append("strong").text(function(d) { return race + " " + gender + ( (affiliation) ? " - " + affiliation : "" ) });
+			// 	// publications.append("p").text(function(d) { return affiliation });
+			// 	var article = publications.selectAll("div")
+			// 		.data(docs)
+			// 	.enter()
+			// 		.append("div")
+			// 		.classed("publication", true);
+			// 	article.append("span")
+			// 		.text(function(d) { return date_format(new Date(d.doc_published_date)) + " - " });
+			// 	article.append("a")
+			// 		.attr("href", function(d) { return d.doc_article_url })
+			// 		.text(function(d) { return d.doc_title })
+			// 		;
+			// 	article.append("span")
+			// 		.text(function(d) { return " (" + d.doc_author_name + ", " + d.doc_medium + ")"})
 				
-			})
+			// })
 			.on("mouseover", function(d) {
 				tooltip
 					.style("opacity", .9)
 					;
 			})
 			.on("mousemove", function(d) {
-				tooltip.html(d.name)
+				s = d.source_name;
+				if (d.affiliation)
+					s += "<br>" + d.affiliation;
+				if (d.race)
+					s += "<br>" + d.race;
+				if (d.gender)
+					s += "<br>" + d.gender;
+				s+= "<br clear='both'>";
+				tooltip.html(s)
 					.style("top", (d3.event.pageY - 15) + "px")
 					.style("left", (d3.event.pageX + 10) + "px")
 					;
@@ -127,7 +138,7 @@ $(function() {
 		node.append("text")
 			.attr("dy", ".3em")
 			.style("text-anchor", "middle")
-			.text(function(d) { if (d.size > 10) return d.name.split(" ").slice(-1) } )
+			.text(function(d) { if (d.record_count > 10) return d.source_name.split(" ").slice(-1) } )
 			;
 
 
@@ -141,7 +152,7 @@ $(function() {
 		selects
 			.append("label")
 			.classed("form-label", true)
-			.text(function(d) { return d.name })
+			.text(function(d) { return d.source_name })
 		selects
 			.append("select")
 			.classed("form-control", true)
@@ -184,9 +195,9 @@ $(function() {
 				});
 		}
 
-		function Source(d) {
-			return { name: d.key, size: d.values.length, docs: d.values, gender: d.values[0].source_gender, race: d.values[0].source_race, affiliation: d.values[0].source_affiliation, affiliation_group: d.values[0].source_affiliation_group }
-		}
+		// function Source(d) {
+		// 	return { name: d.key, size: d.values.length, docs: d.values, gender: d.values[0].source_gender, race: d.values[0].source_race, affiliation: d.values[0].source_affiliation, affiliation_group: d.values[0].source_affiliation_group }
+		// }
 
 		function fixDate(d) {
 			// if ()
